@@ -1,0 +1,29 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "vividstasis",
+  "creator": "SquidSparks",
+  "filler_item_name": "Batteries",
+  "starting_items": [
+    {
+      "items": [
+        "grode"
+      ]
+    },
+    {
+      "item_categories": [
+        "Ch1Songs"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Options",
+        "Crosshatch",
+        "There",
+        "safe_state"
+      ]
+    }
+  ],
+  "death_link": false,
+  "starting_index": 1
+}

@@ -1,0 +1,2158 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Node Flowchart - Story: Episode 1",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 3",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 4",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 5",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 6",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 6.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 7.1",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 7.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1",
+            "_comment": "Should I write these as 7-2 or as writtten like this idk"
+        },
+        {
+            "name": "Node Flowchart - Tavgha",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Fixation Towards the Stars",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Chronomia",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - septima",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Signals Afar",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - QUASAR",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - ENERGY SYNERGY MATRIX",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Macropolis",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - obair-gheris",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1",
+            "_comment": "END CH1 FLOWCHART"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 8",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 9",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 10",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 11",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 12",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 13",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 13.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 14",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 14.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Courage",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - POISON GARDEN",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - APO11O",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Prime",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Revelation",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Chronoexplorers",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Octava",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - tenpo pakala",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 15",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 16",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 17",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 18",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 19",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 20",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 21",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 22",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episoe XX",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - UTF-8000000000",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Dear My Endsummer",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - BPM",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3",
+            "_comment": "END CH2 FLOWCHART"
+        },
+        {
+            "name": "Node Flowchart - Avalon",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Cyclical Rebellion",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Angel's Window",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - ANARCHIC LIGHT",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Singularity",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Simulated Reality",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - CLAUDIA -estella-",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 22'.1",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3",
+            "requires": "|TVO Miracle|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 22'.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 3",
+            "requires": "|TVO Miracle|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 23",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 24",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 25",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 26",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 26, Act 2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 26, Act 3",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+                {
+            "name": "Node Flowchart - Story: Episode 26, Act 4",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 26, Act 5",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - exterminate()",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - lost contact",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Nhlev",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - The Night Of Fright",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - nullbreak",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Crimson Dance(vivid/stasis edit)",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Sternstrude",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5",
+            "_comment": "END CH4 FLOWCHART"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 26, Act 6",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 27",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 28",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 29",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 30",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 31",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 32",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 32'",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 33",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 33'",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 34",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 34''",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 35",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 36",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+            {
+            "name": "Node Flowchart - Story: Episode 36'",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 37A",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 37B",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 37C",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 38",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 3.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|",
+            "_comment": "END STORY FLOWCHART"
+        },
+        {
+            "name": "Node Flowchart - stardust",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - final farewell -aquaregia-",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Prismatic Vortex",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - heptagramme",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - (execute.)",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - even at the end of the world, you left it",
+            "category": ["Node Flowchart"],            
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Node Flowchart - Reboot",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Nightshade",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - Concrete Jungle",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - crack in the earth",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - aria of ruinated winds",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|"
+        },
+        {
+            "name": "Node Flowchart - ULTIMATUM",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 6",
+            "requires": "|Memory Bank|",
+            "_comment": "END CH5 FLOWCHART"
+        },
+        {
+            "name": "Unity Nexus - Story: Episode 39",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Unity Nexus - Story: Episode 40",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Unity Nexus - Story: Episode 41",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Unity Nexus - Story: Episode 42",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Unity Nexus - Story: Episode 43",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Unity Nexus - Story: Episode 44",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus",
+            "_comment": "I know this technically places the terminals twice but shut up"
+        },
+        {
+            "name": "Unity Nexus - Bedroom Terminal",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus",
+            "requires": "|@Bedroom Playlist:1|",
+            "_comment": "Behold the easier way to do this"
+        },
+        {
+            "name": "Unity Nexus - Living Room Terminal",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus",
+            "requires": "|@Living Room Playlist:1|"
+        },
+        {
+            "name": "Unity Nexus - Kitchen Terminal",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus",
+            "requires": "|@Kitchen Playlist:1|",
+            "_comment": "I still might need to change this"
+        },
+        {
+            "name": "Unity Nexus - Dining Room Terminal",
+            "category": ["Unity Nexus"],
+            "region": "Unity Nexus",
+            "requires": "|PYROMANIA| OR |valor/starcross| OR |Unraveling Stasis| OR |ASTELLION| OR |SUPERNOVA| OR |Last Wish| OR |CLAUDIA -libertia-| OR |stop-motion| OR |SENTINEL| OR |CONVERGENCE| OR |thrinos;pygmalion| OR |Bloom in Two| OR |Unknown Absolute|",
+            "_comment": "i'm keeping the boss logic string fuck you"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Battery 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Luxinvore",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan",
+            "_comment": "Doing this for The Void Access"
+        },
+        {
+            "name": "Sunrise Showdown - Gate 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Boost Tickets 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Synthesis",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Gate 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Soundscan Medal 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - When the Dragon Falls",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Gate 3",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Battery 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - And So You Felt",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Gate 4",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Title 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - :3c",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Gate 5",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Battery Storage 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Surtr's Wish",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Gate 6",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Title 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Boost Tickets 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Soundscan Medal 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Apocalypse Challenge",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan",
+            "place_item": ["APOCALYPSE CALL"]
+        },
+        {
+            "name": "Sunrise Showdown - Title 3",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Battery Storage 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Luxinvore",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|Luxinvore|"
+        },
+        {
+            "name": "Soundscan - Synthesis",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|Synthesis|"
+        },
+        {
+            "name": "Soundscan - When the Dragon Falls",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|When the Dragon Falls|"
+        },
+        {
+            "name": "Soundscan - And So You Felt",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|And So You Felt|"
+        },
+        {
+            "name": "Soundscan - :3c",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|3c|"
+        },
+        {
+            "name": "Soundscan - Surtr's Wish",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|Surtrs Wish|"
+        },
+        {
+            "name": "Sunrise Showdown Challenge",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|@Sunrise Showdown:all|"
+        },
+        {
+            "name": "Song Shop - There",
+            "category": ["Single Songs"],
+            "region": "Starting Singles"
+        },
+        {
+            "name": "Song Shop - Options",
+            "category": ["Single Songs"],
+            "region": "Starting Singles"
+        },
+        {
+            "name": "Song Shop - Crosshatch",
+            "category": ["Single Songs"],
+            "region": "Starting Singles"
+        },
+        {
+            "name": "Song Shop - -1",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|-1|"
+        },
+        {
+            "name": "Song Shop - 3, 2, 1, Let's Go",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|3, 2, 1, Let's Go|"
+        },
+        {
+            "name": "Song Shop - Acolyte",
+            "category": ["Single Songs"],
+            "requires": "|Acolyte|",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Song Shop - Asymmetry (takehirotei remix)",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Asymmetry - takehirotei remix|"
+        },
+        {
+            "name": "Song Shop - BADSECRET",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|BADSECRET|"
+        },
+        {
+            "name": "Song Shop - Beyond the Heart (Broken Heart Mix)",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Beyond the Heart - Broken Heart Mix|"
+        },
+        {
+            "name": "Song Shop - Credits",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Credits|"
+        },
+        {
+            "name": "Song Shop - F1055",
+            "category": ["Single Songs"],
+            "requires": "|F1055|",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Song Shop - ENERGY SYNERGY MATRIX",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|ENERGY SYNERGY MATRIX|"
+        },
+        {
+            "name": "Song Shop - FULi AUTO BUSTER",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|FULi AUTO BUSTER|"
+        },
+        {
+            "name": "Song Shop - FULi AUTO SHOOTER",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|FULi AUTO SHOOTER|"
+        },
+        {
+            "name": "Song Shop - G e n g a o z o",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|G e n g a o z o|"
+        },
+        {
+            "name": "Song Shop - Gauntlet",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Gauntlet|"
+        },
+        {
+            "name": "Song Shop - grode (Wyvren's Remix)",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|grode - Wyvren's Remix|"
+        },
+        {
+            "name": "Song Shop  - Happy Go Lucky!!!",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Happy Go Lucky!!!|"
+        },
+        {
+            "name": "Song Shop - HTTPS",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|HTTPS|"
+        },
+        {
+            "name": "Song Shop - LET THE CREATION BEGIN",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|LET THE CREATION BEGIN|"
+        },
+        {
+            "name": "Song Shop - Luminaria",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Luminaria|"
+        },
+        {
+            "name": "Song Shop - Perfect ConfeCute!!",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Perfect ConfeCute!!|"
+        },
+        {
+            "name": "Song Shop - Pictured as Perfect",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Pictured as Perfect|"
+        },
+        {
+            "name": "Song Shop - Random",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Random|"
+        },
+        {
+            "name": "Song Shop - slic.hertz",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|slic.hertz|"
+        },
+        {
+            "name": "Song Shop - Spell Diver",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Spell Diver|"
+        },
+        {
+            "name": "Song Shop - Spin Cycle - (NETCAVY ReMiX)",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Spin Cycle - NETCAVY ReMiX|"
+        },
+        {
+            "name": "Song Shop - Stellaria",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Stellaria|"
+        },
+        {
+            "name": "Song Shop - Synthesizer Party",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Synthesizer Party|"
+        },
+        {
+            "name": "Song Shop - taffy",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|taffy|"
+        },
+        {
+            "name": "Song Shop - TERABYTE CONNECTION",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|TERABYTE CONNECTION|"
+        },
+        {
+            "name": "Song Shop - The 89's Momentum",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|The 89's Momentum|"
+        },
+        {
+            "name": "Song Shop - The Next Arcady",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|The Next Arcady|"
+        },
+        {
+            "name": "Song Shop - Un-TECHNiCAL Reason",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Un-TECHNiCAL Reason|"
+        },
+        {
+            "name": "Song Shop - WATAGASHI RUSH",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|WATAGASHI RUSH|"
+        },
+        {
+            "name": "Song Shop - What You Love",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|What You Love|"
+        },
+        {
+            "name": "Song Shop - Yamai",
+            "category": ["Single Songs"],
+            "region": "Song Shop",
+            "requires": "|Yamai|"
+        },
+        {
+            "name": "Song Shop - INFiNiTE ENERZY -Overdoze-",
+            "category": ["Single Songs"],
+            "requires": "|INFiNiTE ENERZY -Overdoze-|",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Song Shop - grode(decoherence)",
+            "category": ["Single Songs"],
+            "requires": "|grode decoherence|",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Song Shop - 5 Songs Completed",
+            "category": ["Singles Completion"],
+            "region": "Song Shop",
+            "requires": "|@ShopSongs:5|"
+        },
+        {
+            "name": "Song Shop - 10 Songs Completed",
+            "category": ["Singles Completion"],
+            "region": "Song Shop",
+            "requires": "|@ShopSongs:10|"
+        },
+        {
+            "name": "Song Shop - 15 Songs Completed",
+            "category": ["Singles Completion"],
+            "region": "Song Shop",
+            "requires": "|@ShopSongs:15|"
+        },
+        {
+            "name": "Song Shop - 20 Songs Completed",
+            "category": ["Singles Completion"],
+            "region": "Song Shop",
+            "requires": "|@ShopSongs:20|"
+        },
+        {
+            "name": "Song Shop - 30 Songs Completed",
+            "category": ["Singles Completion"],
+            "region": "Song Shop",
+            "requires": "|@ShopSongs:30|"
+        },
+        {
+            "name": "Song Shop - 40 Songs Completed",
+            "category": ["Singles Completion"],
+            "region": "Song Shop",
+            "requires": "|@ShopSongs:40|",
+            "_comment": "END SONG SHOP LOCATIONS"
+        },
+        {
+            "name": "Chapter 1 - grode",
+            "category": ["Chapter 1 Songs"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - Tavgha",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|Tavgha|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - Fixation Towards the Stars",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|Fixation Towards the Stars|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - Signals Afar",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|Signals Afar|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - QUASAR",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|QUASAR|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - Macropolis",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|Macropolis|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - septima",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|septima|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - Chronomia",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|Chronomia|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - obair-gheris",
+            "category": ["Chapter 1 Songs"],
+            "requires": "|obair-gheris|",
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Lock P, PYROMANIA Access",
+            "category": ["Cycle Locks"],
+            "requires": "|@Ch1Songs:5|",
+            "region": "Chapter 1",
+            "place_item": [
+			    "PYROMANIA"
+            ]
+        },
+        {
+            "name": "Chapter 1 - PYROMANIA",
+            "category": ["Chapter 1 Songs", "Boss Songs"],
+            "requires": "|PYROMANIA|",
+            "region": "Chapter 1",
+            "_comment": "END CH1 SONG LOCATIONS"
+        },
+        {
+            "name": "Chapter 2 - Cosmogryal",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|Cosmogryal|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Chapter 2 - Courage",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|Courage|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Chapter 2 - POISON GARDEN",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|POISON GARDEN|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Chapter 2 - Farewell to Syzygia",
+            "category": ["Chapter 2 Songs"],
+            "region": "Chapter 2",
+            "requires": "|Farewell to Syzygia|"
+        },
+        {
+            "name": "Chapter 2 - APO11O",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|APO11O|",
+            "region": "Chapter 2"
+        },
+        
+        {
+            "name": "Chapter 2 - Prime",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|Prime|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Chapter 2 - Revelation",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|Revelation|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Chapter 2 - tenpo pakala",
+            "category": ["Chapter 2 Songs"],
+            "region": "Chapter 2",
+            "requires": "|tenpo pakala|"
+        },
+        {
+            "name": "Chapter 2 - Octava",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|Octava|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Chapter 2 - energy trixxx",
+            "category": ["Chapter 2 Songs"],
+            "region": "Chapter 2",
+            "requires": "|energy trixxx|"
+        },
+        {
+            "name": "Chapter 2 - Chronoexplorers",
+            "category": ["Chapter 2 Songs"],
+            "requires": "|Chronoexplorers|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Lock V, valor/starcross Access",
+            "category": ["Cycle Locks"],
+            "requires": "|@Ch2Songs:5|",
+            "region": "Chapter 2",
+            "place_item": [
+			    "valor/starcross"
+		]
+        },
+        {
+            "name": "Chapter 2 - valor/starcross",
+            "category": ["Chapter 2 Songs", "Boss Songs"],
+            "requires": "|valor/starcross|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Lock U, Unraveling Stasis Access",
+            "category": ["Cycle Locks"],
+            "requires": "|@Ch2Songs:5| AND |PYROMANIA| AND |valor/starcross|",
+            "region": "Chapter 2",
+            "place_item": [
+			    "Unraveling Stasis"
+		]
+        },
+        {
+            "name": "Chapter 2 - Unraveling Stasis",
+            "category": ["Chapter 2 Songs", "Boss Songs"],
+            "requires": "|Unraveling Stasis|",
+            "region": "Chapter 2",
+            "_comment": "END CHAPTER 2 SONG LOCATIONS"
+        },
+        {
+            "name": "Chapter 3 - Ione",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Ione|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - UTF-8000000000",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|UTF-8000000000|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - Singularity",
+            "category": ["Chapter 3 Songs"],
+            "region": "Chapter 3",
+            "requires": "|Singularity|"
+        },
+        {
+            "name": "Chapter 3 - Avalon",
+            "category": ["Chapter 3 Songs"],
+            "region": "Chapter 3",
+            "requires": "|Avalon|"
+        },
+        {
+            "name": "Chapter 3 - BPM",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|BPM|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - Dear My Endsummer",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Dear My Endsummer|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - Cyclical Rebellion",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Cyclical Rebellion|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - Angel's Window",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Angel's Window|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - ANARCHIC LIGHT",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|ANARCHIC LIGHT|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - CLAUDIA -estella-",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|CLAUDIA -estella-|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Chapter 3 - Simulated Reality",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Simulated Reality|",
+            "region": "Chapter 3",
+            "_comment": "ENC CHAPTER 3"
+        },
+        {
+            "name": "Gem in Betweenspace Hub",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Sewers Starting Room Right",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Sewers Starting Room Left",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+            
+        },
+        {
+            "name": "Gem in Sewers Cross",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"    
+        },
+        {
+            "name": "Gem in Sewers Before Puzzle Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Sewers BS Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Sewers Puzzle Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Sewers Left of Ops:Limone",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library Next to Door",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library Jump Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library Next to Melody Entrance",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Melody Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library At Couches",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library Next to Seraphiel",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Tower Next to Tormented World",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Tower Ladder Platforms",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Tower Before Warp Rooms",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Tower Warp Puzzle",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Tower Warp to Fish",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Past Bridge",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Corner Next To Save",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Ladders Below Save",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Red Maze Left",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Red Maze Top",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Gray Maze Right of Start Up",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Gray Maze Right of Start Down",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Gray Maze Right of Start Right",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Gray Maze Left",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Gray Maze Top",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Below Ladders",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Above Ranch Incident",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Ladders Room 2",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Desert Purple",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Chapter 3 - Doppelganger",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Doppelganger|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Betweenspace - Doppelganger",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Chapter 3 - Tormented World",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Tormented World|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Betweenspace - Tormented World",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Chapter 3 - Ops:Limone",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Ops Limone|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Betweenspace - Ops:Limone",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Chapter 3 - Seraphiel",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|Seraphiel|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Betweenspace - Seraphiel",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Chapter 3 - MARENOL",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|MARENOL|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Betweenspace - MARENOL",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Chapter 3 - execution_program",
+            "category": ["Chapter 3 Songs"],
+            "requires": "|execution_program|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Betweenspace - execution_program",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Shatter Your Fate - Last Wish Access",
+            "category": ["Chapter 3 Songs", "Boss Songs"],
+            "region": "Chapter 3",
+            "place_item": [
+			    "Last Wish"
+            ]
+        },
+        {
+            "name": "Chapter 3 - Last Wish",
+            "category": ["Chapter 3 Songs", "Boss Songs"],
+            "requires": "|Last Wish|",
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Forest Below Landing Key Right",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Forest Below Landing Key Left",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Forest Above Warp",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Forest House Above Warp",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Egg",
+            "category": ["Misc"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians By A1",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians First Door Above Ladder",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians First Door Under First Ladder",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians First Door Past Ladders",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Past First Door",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians By Orange Jumps",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Past Orange Jumps",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Above A1",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Right of A3",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Right of Door",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Below Aleph-0",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Beside Warp",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Mountians Lamp Square",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Clouds Start",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Clouds Above Start",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Clouds By SF",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Clouds Above SF",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Waterfall Caves Beside L",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Invisible Maze",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4",
+            "place_item_category": ["Filler"],
+            "_comment": "i'm not making you do the maze fuck that"
+        },
+        {
+            "name": "Gem in Waterfall Caves Above Long Ladder",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Waterfall Caves Behind Waterfall",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Waterfall Caves Before Grave",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Waterfall Caves Before MARENOL Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Fishing Spot Above Start",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Fishing Spot Below Start",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Gem in Fishing Spot Next to Egg Door",
+            "category": ["Gem Locations"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Chapter 4 - hotline_ophiucus",
+            "category": ["Chapter 4 Songs"],
+            "region": "Chapter 4",
+            "requires": "|hotline_ophiucus|"
+        },
+        {
+            "name": "Betweenspace - hotline_ophiucus",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Chapter 4 - STARGAZERS",
+            "category": ["Chapter 4 Songs"],
+            "requires": "|STARGAZERS|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - STARGAZERS",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Chapter 4 - Aleph-0",
+            "category": ["Chapter 4 Songs"],
+            "requires": "|Aleph-0|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - Aleph-0",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Chapter 4 - Lost City",
+            "category": ["Chapter 4 Songs"],
+            "requires": "|Lost City|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - Lost City",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Landing Key - The Last Page",
+            "category": ["Landing Keys"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - The Last Page",
+            "category": ["Betweenspace Nodes"],
+            "requires": "|Landing Key - The Last Page|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Landing - The Last Page",
+            "category": ["Final Landing"],
+            "requires": "|The Last Page|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Landing Key - Candy@Cracker",
+            "category": ["Landing Keys"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - Candy@Cracker",
+            "category": ["Betweenspace Nodes"],
+            "requires": "|Landing Key - Candy@Cracker|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Landing - Candy@Cracker",
+            "category": ["Final Landing"],
+            "requires": "|Candy@Cracker|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Landing Key - Orphen",
+            "category": ["Landing Keys"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - Orphen",
+            "category": ["Betweenspace Nodes"],
+            "requires": "|Landing Key - Orphen|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Landing - Orphen",
+            "category": ["Final Landing"],
+            "requires": "|Orphen|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Landing Key - 3.1V.C1",
+            "category": ["Landing Keys"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - 3.1V.C1",
+            "category": ["Betweenspace Nodes"],
+            "requires": "|Landing Key - 3.1V.C1|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Landing - 3.1V.C1",
+            "category": ["Final Landing"],
+            "requires": "|3.1V.C1|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Porta Futuri - ASTELLION Access",
+            "category": ["Landing Keys"],
+            "requires": "|The Last Page| AND |Candy@Cracker| AND |Orphen| AND |3.1V.C1|",
+            "region": "Chapter 4",
+            "place_item": [
+			    "ASTELLION"
+            ]
+        },
+        {
+            "name": "Final Landing - ASTELLION",
+            "category": ["Final Landing", "Boss Songs"],
+            "requires": "|ASTELLION|",
+            "region": "Chapter 4",
+            "place_item": ["TVO Miracle"]
+        },
+        {
+            "name": "Lock S - SUPERNOVA Access",
+            "category": ["Cycle Locks"],
+            "requires": "|TVO Miracle|",
+            "region": "Chapter 4",
+            "place_item": [
+			    "SUPERNOVA"
+            ]
+        },
+        {
+            "name": "Chapter 4 - SUPERNOVA",
+            "category": ["Chapter 4 Songs", "Boss Songs"],
+            "requires": "|SUPERNOVA|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Chapter 5 - Shattered Sky After Rain",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|Shattered Sky After Rain|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Chapter 5 - exterminate()",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|exterminate|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Chapter 5 - Nhlev",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|Nhlev|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Chapter 5 - The Night of Fright",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|The Night of Fright|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Chapter 5 - nullbreak",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|nullbreak|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Chapter 5 - Sternstrude",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|Sternstrude|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Chapter 5 - lost contact",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|lost contact|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Lock C - CLAUDIA -libertia- Access",
+            "category": ["Cycle Locks"],
+            "requires": "|@Ch5Songs:5|",
+            "region": "Chapter 5",
+            "place_item": [
+			    "CLAUDIA -libertia-"
+            ]
+        },
+        {
+            "name": "Chapter 5 - CLAUDIA -libertia-",
+            "category": ["Chapter 5 Songs", "Boss Songs"],
+            "requires": "|CLAUDIA -libertia-|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Interference - _",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Storyteller Intervention - stop-motion Access",
+            "category": ["Intermissions"],
+            "requires": "|CLAUDIA -libertia-|",
+            "region": "Chapter 5",
+            "place_item": [
+			    "stop-motion"
+            ]
+        },
+        {
+            "name": "Chapter 5 - stop-motion",
+            "category": ["Chapter 5 Songs", "Boss Songs"],
+            "requires": "|stop-motion|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Duskbreaker Intermission - SENT://INEL Access",
+            "category": ["Intermissions"],
+            "requires": "|CLAUDIA -libertia-| AND |stop-motion|",
+            "region": "Chapter 5",
+            "place_item": [
+			    "SENTINEL"
+            ]
+        },
+        {
+            "name": "Chapter 5 - SENT://INEL",
+            "category": ["Chapter 5 Songs", "Boss Songs"],
+            "requires": "|SENTINEL|",
+            "region": "Chapter 5",
+            "_comment": "END Chapter 5 SONG LOCATIONS"
+        },
+        {
+            "name": "Chapter 5 - Crimson Dance (vivid/stasis Edit)",
+            "category": ["Chapter  Songs"],
+            "region": "Chapter 5",
+            "requires": "|Crimson Dance - vivid/stasis Edit|"
+        },
+        {
+            "name": "Chapter 6 - the more i carry on...",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|the more i carry on...|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - stardust",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|stardust|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - final farewell -aquaregia-",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|final farewell -aquaregia-|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - Prismatic Vortex",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|Prismatic Vortex|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - (execute.)",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|execute.|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - heptagramme",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|heptagramme|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - even at the end of the world, you left it",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|even at the end of the world, you left it|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Interference - Memories Sacrafice",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - Reboot",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|Reboot|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - Nightshade",
+            "category": ["Chapter 6 Songs"],
+            "requires": "|Nightshade|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - crack in the earth",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|crack in the earth|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - Concrete Jungle",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|Concrete Jungle|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - aria of ruinated winds",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|aria of ruinated winds|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Chapter 6 - ULTIMATUM",
+            "category": ["Chapter 5 Songs"],
+            "requires": "|ULTIMATUM|",
+            "region": "Chapter 6"
+        },
+        {
+            "name": "Guaridan Intervention - CONVERGENCE Access",
+            "category": ["Cycle Locks"],
+            "requires": "|@Ch6Songs:10|",
+            "region": "Chapter 6",
+            "place_item": [
+			    "CONVERGENCE"
+            ]
+        },
+        {
+            "name": "Chapter 6 - CONVERGENCE",
+            "category": ["Chapter 6 Songs", "Boss Songs"],
+            "requires": "|CONVERGENCE|",
+            "region": "Chapter 6",
+            "_comment": "END Chapter 6 SONG LOCATIONS"
+        },
+        {
+            "name": "Chapter 7 - thrinos;pygmalion",
+            "category": ["Chapter 7 Songs", "Unity Nexus"],
+            "requires": "|thrinos;pygmalion|",
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Chapter 7 - Bloom in Two",
+            "category": ["Chapter 7 Songs", "Unity Nexus"],
+            "requires": "|Bloom in Two|",
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Chapter 7 - Unknown Absolute",
+            "category": ["Chapter 7 Songs", "Unity Nexus"],
+            "requires": "|Unknown Absolute|",
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Chapter 7 - First Breath",
+            "category": ["Chapter 7 Songs", "Unity Nexus"],
+            "requires": "|First Breath|",
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Worldkeeper Intervention - SELF Access",
+            "category": ["Intermissions", "Unity Nexus"],
+            "requires": "|thrinos;pygmalion| AND |Bloom in Two| AND |Unknown Absolute| AND |First Breath|",
+            "region": "Unity Nexus",
+            "place_item": [
+			    "SELF"
+            ]
+        },
+        {
+            "name": "Chapter 7 - SELF",
+            "category": ["Chapter 7 Songs", "Boss Songs", "Unity Nexus"],
+            "requires": "|SELF|",
+            "region": "Unity Nexus"
+        },
+        {
+            "name": "Curtian Call - plaudite access",
+            "category": ["Chapter 7 Songs", "Unity Nexus"],
+            "requires": "|PYROMANIA| AND |valor/starcross| AND |Unraveling Stasis| AND |ASTELLION| AND |SUPERNOVA| AND |CLAUDIA -libertia-| AND |stop-motion| AND |CONVERGENCE| AND |SELF|",
+            "region": "Plaudite",
+            "place_item": [
+			    "acta est fabula, plaudite"
+            ]
+        },
+        {
+            "name": "acta est fabula, plaudite",
+            "category": ["GOAL"],
+            "requires": "|acta est fabula, plaudite|",
+            "region": "Plaudite",
+            "victory": true
+        },
+        {
+            "name": "Void Lens",
+            "category": ["The Void"],
+            "region": "Chapter 5"
+        },
+        {
+            "name": "True Void - Attractor Force",
+            "category": ["Void Nodes"],
+            "region": "The Void"
+        },
+        {
+            "name": "Chapter 7 - Attractor Force",
+            "category": ["The Void"],
+            "region": "The Void",
+            "requires": "|Attractor Force|"
+        },
+        {
+            "name": "True Void - See You Move",
+            "category": ["Void Nodes"],
+            "region": "The Void"
+        },
+        {
+            "name": "Chapter 7 - See You Move",
+            "category": ["The Void"],
+            "region": "The Void",
+            "requires": "|See You Move|"
+        },
+        {
+            "name": "True Void - Voltage Strike",
+            "category": ["Void Nodes"],
+            "region": "The Void"
+        },
+        {
+            "name": "Chapter 7 - Voltage Strike",
+            "category": ["The Void"],
+            "region": "The Void",
+            "requires": "|Voltage Strike|"
+        },
+        {
+            "name": "True Void - refract::dense",
+            "category": ["Void Nodes"],
+            "region": "The Void"
+        },
+        {
+            "name": "Chapter 7 - refract::dense",
+            "category": ["The Void"],
+            "region": "The Void",
+            "requires": "|refract dense|"
+        },
+        {
+            "name": "Porta Absconda - B3611V Access",
+            "category": ["The Void"],
+            "region": "The Void",
+            "place_item": ["B3611V"]
+        },
+        {
+            "name": "Chapter 7 - B3611N",
+            "category": ["The Void"],
+            "region": "The Void",
+            "requires": "|B3611V|"
+        },
+        {
+            "name": "True Void - Solomon's Seal",
+            "category": ["The Void"],
+            "region": "The Void"
+        },
+        {
+            "name": "Encore Episode - Solomon's Seal",
+            "category": ["The Void"],
+            "region": "The Void",
+            "requires": "|Solomons Seal|"
+        },
+        {
+            "name": "Encore Episode",
+            "category": ["Goal"],
+            "region": "The Void",
+            "_comment": "Simplified conditions in rando because this is a lot lol. you should just get them all doing this anyway i'll change it if i'm wrong",
+            "victory": true,
+            "requires": "|PYROMANIA| AND |valor/starcross| AND |Unraveling Stasis| AND |ASTELLION| AND |SUPERNOVA| AND |CLAUDIA -libertia-| AND |stop-motion| AND |CONVERGENCE| AND |acta est fabula, plaudite| AND |Tamasatchi Egg| AND |B3611V| AND |APOCALYPSE CALL| AND |Solomons Seal|"
+        }
+            ]
+        }
+

@@ -1,0 +1,51 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Chapter 1":{
+        "connects_to": ["Chapter 2", "Song Shop"],
+        "starting": true,
+        "exit_requires": {"Chapter 2": "|PYROMANIA|"}
+    },
+    "Starting Singles":{
+        "connects_to": [],
+        "starting": true
+    },
+    "Song Shop":{
+        "connects_to": []
+    },
+    "Chapter 2": {
+        "connects_to": ["Chapter 3"],
+        "exit_requires": {"Chapter 3": "|valor/starcross| AND |Unraveling Stasis|"}
+    },
+    "Chapter 3": {
+        "connects_to": ["Chapter 4"],
+        "exit_requires": {"Chapter 4": "|Last Wish|"}
+        },
+    "Chapter 4": {
+        "connects_to": ["Chapter 5", "Soundscan"],
+        "exit_requires": {"Chapter 5": "|SUPERNOVA|"}
+        },
+    "Soundscan": {
+        "connects_to": []
+    },
+    "Chapter 5": {
+        "connects_to": ["Chapter 6"],
+        "exit_requires": {"Chapter 6": "|CLAUDIA -libertia-| AND |stop-motion|"}
+        },
+    "Chapter 6": {
+        "connects_to": ["Unity Nexus"],
+        "exit_requires": {"Unity Nexus": "|CONVERGENCE|"}
+        },
+    "Unity Nexus": {
+        "requires": "|CONVERGENCE|",
+        "connects_to": ["Plaudite", "The Void"],
+        "_comment": "this and chapter 7 are the same i think so the only thing to change is the location names",
+        "exit_requires": {"Plaudite":"|PYROMANIA| AND |valor/starcross| AND |Unraveling Stasis| AND |ASTELLION| AND |SUPERNOVA| AND |CLAUDIA -libertia-| AND |stop-motion| AND |CONVERGENCE| AND |SELF|"}
+    },
+    "The Void": {
+        "connects_to": [],
+        "requires": "|Void Lens|"
+        },
+    "Plaudite": {
+        "connects_to": []
+        }
+}

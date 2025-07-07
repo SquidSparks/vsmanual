@@ -1,0 +1,1072 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "grode",
+            "category": [
+                "Ch1Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Tavgha",
+            "category": [  
+                "Ch1Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Fixation Towards the Stars",
+            "category": [ 
+                "Ch1Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Signals Afar",
+            "category": [                
+                "Ch1Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "QUASAR",
+            "category": [               
+                "Ch1Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "septima",
+            "category": [ 
+                "Ch1Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Chronomia",
+            "category": [ 
+                "Ch1Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Macropolis",
+            "category": [
+                "Ch1Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Happy Go Lucky!!!",
+            "category": [
+                "ShopSongs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "obair-gheris",
+            "category": [
+                "Ch1Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "PYROMANIA",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cosmogryal",
+            "category": [
+                "Ch2Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Courage",
+            "category": [
+                "Ch2Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "POISON GARDEN",
+            "category": [
+                "Ch2Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "APO11O",
+            "category": [
+                "Ch2Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "safe_state",
+            "category": [
+                "ShopSongs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Prime",
+            "category": [
+                "Ch2Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Revelation",
+            "category": [
+                "Ch2Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Chronoexplorers",
+            "category": [
+                "Ch2Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Octava",
+            "category": [
+                "Ch2Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "BPM",
+            "category": [
+                "Ch3Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "valor/starcross",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Unraveling Stasis",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ione",
+            "category": [
+                "Ch3Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "UTF-8000000000",
+            "category": [
+                "Ch3Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Dear My Endsummer",
+            "category": [
+                "Ch3Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cyclical Rebellion",
+            "category": [
+                "Ch3Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Angel's Window",
+            "category": [
+                "Ch3Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "ANARCHIC LIGHT",
+            "category": [
+                "Ch3Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Singularity",
+            "category": [
+                "Ch3Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Simulated Reality",
+            "category": [
+                "Ch3Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Aleph-0",
+            "category": [
+                "Ch4Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "SUPERNOVA",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Acolyte",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Lost City",
+            "category": [
+                "ShopSongs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        
+        {
+            "name": "F1055",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Doppelganger",
+            "category": [
+                "Ch3Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Gems",
+            "category": [
+                "Filler"
+            ],
+            "count": 63,
+            "filler": true,
+            "_comment": "based off location count, not total in the whole game"
+        },
+        {
+            "name": "Tormented World",
+            "category": [
+                "Ch3Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ops Limone",
+            "category": [
+                "Ch3Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Seraphiel",
+            "category": [
+                "Ch3Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "INFiNiTE ENERZY -Overdoze-",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "execution_program",
+            "category": [
+                "Bosses",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "grode decoherence",
+            "category": [
+                "ShopSongs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "MARENOL",
+            "category": [
+                "Ch3Songs"
+            ],
+            "progression": true
+            
+        },
+        {
+            "name": "STARGAZERS",
+            "category": [
+                "Ch4Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Landing Key - The Last Page",
+            "category": [
+                "Final Landing",
+                "Landing Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Last Page",
+            "category": [
+                "Final Landing",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        }, 
+        {
+            "name": "Candy@Cracker",
+            "category": [
+                "Final Landing",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Landing Key - Candy@Cracker",
+            "category": [
+                "Final Landing",
+                "Landing Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Orphen",
+            "category": [
+                "Final Landing",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Landing Key - Orphen",
+            "category": [
+                "Final Landing",
+                "Landing Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "3.1V.C1",
+            "category": [
+                "Final Landing",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Landing Key - 3.1V.C1",
+            "category": [
+                "Final Landing",
+                "Landing Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "ASTELLION",
+            "category": [
+                "Final Landing"
+            ],
+            "progression": true
+        },
+        {
+            "name": "TVO Miracle",
+            "category": [
+                "TVO Interventions"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Last Wish",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true,
+            "requires": "|SUPERNOVA|"
+        },
+        {
+            "name": "CLAUDIA -estella-",
+            "category": [
+                "Ch3Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Shattered Sky After Rain",
+            "category": [
+                "Ch5Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "exterminate",
+            "category": [
+                "Ch5Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Night of Fright",
+            "category": [
+                "Ch5Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "nullbreak",
+            "category": [
+                "Ch5Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Nhlev",
+            "category": [
+                "Ch5Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Sternstrude",
+            "category": [
+                "Ch5Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "CLAUDIA -libertia-",
+            "category": [
+                "Boss"
+            ],
+            "progression": true
+        },
+        {
+            "name": "stop-motion",
+            "category": [
+                "Boss"
+            ],
+            "progression": true
+        },
+        {
+            "name": "SENTINEL",
+            "category": [
+                "Boss"
+            ],
+            "progression": true
+        },
+        {
+            "name": "the more i carry on...",
+            "category": [
+                "Ch6Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "lost contact",
+            "category": [
+                "Ch5Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "stardust",
+            "category": [
+                "Ch6Songs",
+                "Living Room Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "final farewell -aquaregia-",
+            "category": [
+                "Ch6Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Prismatic Vortex",
+            "category": [
+                "Ch6Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "heptagramme",
+            "category": [
+                "Ch6Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "execute.",
+            "category": [
+                "Ch6Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "even at the end of the world, you left it",
+            "category": [
+                "Ch6Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Memory Bank",
+            "category": [
+                "TVO Interventions"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Reboot",
+            "category": [
+                "Ch6Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Nightshade",
+            "category": [
+                "Ch6Songs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "crack in the earth",
+            "category": [
+                "Ch6Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Concrete Jungle",
+            "category": [
+                "Ch6Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "aria of ruinated winds",
+            "category": [
+                "Ch6Songs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "ULTIMATUM",
+            "category": [
+                "Ch6Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "CONVERGENCE",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "thrinos;pygmalion",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Bloom in Two",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Unknown Absolute",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "First Breath",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "SELF",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "acta est fabula, plaudite",
+            "category": [
+                "Bosses"
+            ],
+            "progression": true
+        },
+        {
+            "name": "There",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Options",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Crosshatch",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Credits",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "tenpo pakala",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The 89's Momentum",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "BADSECRET",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "GOODRAGE",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "-1",
+            "category": [
+                "ShopSongs",
+                "Kitchen Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "3, 2, 1, Let's Go",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Asymmetry - takehirotei remix",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Avalon",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Beyond the Heart - Broken Heart Mix",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Crimson Dance - vivid/stasis Edit",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "ENERGY SYNERGY MATRIX",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "energy trixxx",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "FULi AUTO BUSTER",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "FULi AUTO SHOOTER",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Farewell to Syzygia",
+            "category": [
+                "ShopSongs",
+                "Bedroom Playlist"
+            ],
+            "progression": true
+        },
+        {
+            "name": "G e n g a o z o",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Gauntlet",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "grode - Wyvren's Remix",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "hotline_ophiucus",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "HTTPS",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "LET THE CREATION BEGIN",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Luminaria",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Perfect ConfeCute!!",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Pictured as Perfect",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Random",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "slic.hertz",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Spell Diver",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Spin Cycle - NETCAVY ReMiX",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Stellaria",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Synthesizer Party",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "taffy",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "TERABYTE CONNECTION",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "The Next Arcady",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Un-TECHNiCAL Reason",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "WATAGASHI RUSH",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "What You Love",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Yamai",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Luxinvore",
+            "category": [
+                "Sunrise Showdown"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Synthesis",
+            "category": [
+                "Sunrise Showdown"
+            ],
+            "progression": true
+        },
+        {
+            "name": "When the Dragon Falls",
+            "category": [
+                "Sunrise Showdown"
+            ],
+            "progression": true
+        },
+        {
+            "name": "And So You Felt",
+            "category": [
+                "Sunrise Showdown"
+            ],
+            "progression": true
+        },
+        {
+            "name": "3c",
+            "category": [
+                "Sunrise Showdown"
+            ],
+            "progression": true,
+            "_comment": "I wish I could use colons"
+        },
+        {
+            "name": "Surtrs Wish",
+            "category": [
+                "Sunrise Showdown"
+            ],
+            "progression": true
+        },
+        {
+            "name": "APOCALYPSE CALL",
+            "category": [
+                "ShopSongs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Void Lens",
+            "category": [
+                "Hidden Landing Access"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Attractor Force",
+            "category": [
+                "Hidden Landing"
+            ],
+            "progression": true
+        },
+        {
+            "name": "See You Move",
+            "category": [
+                "Hidden Landing"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Voltage Strike",
+            "category": [
+                "Hidden Landing"
+            ],
+            "progression": true
+        },
+        {
+            "name": "refract dense",
+            "category": [
+                "Hidden Landing"
+            ],
+            "progression": true
+        },
+        {
+            "name": "B3611V",
+            "category": [
+                "Hidden Landing"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Tamasatchi Egg",
+            "category": [
+                "Backstage Access"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Solomons Seal",
+            "category": [
+                "Backstage Access"
+            ],
+            "progression": true
+        }
+    ]
+
+}
