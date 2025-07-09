@@ -33,9 +33,10 @@ If you know how to generally use custom apworlds or manuals, you can skip this s
 
 ### Game Setup
 
-This manual makes liberal use of two accessibility options that can be enabled from the Options Menu.
+This manual makes liberal use of two(or three) accessibility options that can be enabled from the Options Menu.
 - **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the Node Flowchart.
 - **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors(Logically Story Locks only require a certain amount of that Chapter's songs).
+- **Unlock All Modes:** Bypasses the Shop and Soundscan Locks. Mostly useful if you turn the Shop or Soundscan on
 
 There are also other settings you can adjust to your liking in this menu
 - **Currency Multiplier:** Reduces grinding for Points and Battery.
