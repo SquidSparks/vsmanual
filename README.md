@@ -2,7 +2,7 @@
 ###### nobody asked for this.
 
 After a whole month of work ~and having to redo half of it because of the offical release~, you can play vivid/stasis in your multiworld. I don't know why you would, but you can!\
-Currently updated to 5.0(Excluding the new songs in the shop because I was focused on making the story functional)
+Currently updated to 5.0
 
 ## Things in this rando:
 - Items: Songs, Landing Keys, Tamasatchi Egg, Void Lens, Batteries(Filler), Gems(Filler)
