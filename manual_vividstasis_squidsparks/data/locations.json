@@ -42,10 +42,9 @@
             "region": "Chapter 1"
         },
         {
-            "name": "Node Flowchart - Story: Episode 7.2",
+            "name": "Node Flowchart - Story: Episode 8",
             "category": ["Node Flowchart"],
-            "region": "Chapter 1",
-            "_comment": "Should I write these as 7-2 or as writtten like this idk"
+            "region": "Chapter 1"
         },
         {
             "name": "Node Flowchart - Tavgha",
@@ -94,11 +93,6 @@
             "_comment": "END CH1 FLOWCHART"
         },
         {
-            "name": "Node Flowchart - Story: Episode 8",
-            "category": ["Node Flowchart"],
-            "region": "Chapter 2"
-        },
-        {
             "name": "Node Flowchart - Story: Episode 9",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
@@ -124,17 +118,22 @@
             "region": "Chapter 2"
         },
         {
-            "name": "Node Flowchart - Story: Episode 13.2",
-            "category": ["Node Flowchart"],
-            "region": "Chapter 2"
-        },
-        {
             "name": "Node Flowchart - Story: Episode 14",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
         },
         {
             "name": "Node Flowchart - Story: Episode 14.2",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 15",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 15.2",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
         },
@@ -175,11 +174,6 @@
         },
         {
             "name": "Node Flowchart - tenpo pakala",
-            "category": ["Node Flowchart"],
-            "region": "Chapter 2"
-        },
-        {
-            "name": "Node Flowchart - Story: Episode 15",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
         },
