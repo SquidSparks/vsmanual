@@ -6,7 +6,12 @@ Currently updated to 5.0(Excluding the new songs in the shop because I was focus
 
 ## Things in this rando:
 - Items: Songs, Landing Keys, Tamasatchi Egg, Void Lens, Batteries(Filler), Gems(Filler)
-- Locations : Node Flowchart, Song Clears, Betweenspace(Songs, Gems, Landing Keys, Egg, Void Lens), Soundscan(Only Sunrise Showdown currently), Unity Nexus Terminals
+- Locations : Node Flowchart, Song Clears, Betweenspace(Songs, Gems, Landing Keys, Egg, Void Lens), Soundscan, Unity Nexus Terminals
+
+(NEW) Yaml Options:
+- Song Shop: Adds Song Shop items and Locations to the pool
+- Soundscan Maps: Adds all Soundscan maps to the pool with the exceptions of Sunrise Showdown(goal requirement) and Encore Ensemble(didn't want to do it)
+- long map: adds the long soundscan map that isn't worth it.
 
 Goals:
 - acta est fabula, plaudite
