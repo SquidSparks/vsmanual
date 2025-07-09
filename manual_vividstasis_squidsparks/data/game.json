@@ -11,16 +11,18 @@
     },
     {
       "item_categories": [
-        "Ch1Songs"
+        "Chapter 1 Songs"
       ],
       "random": 1
     },
     {
       "items": [
         "Options",
-        "Crosshatch",
         "There",
         "safe_state"
+      ],
+      "yaml_option": [
+        "song_shop"
       ]
     }
   ],

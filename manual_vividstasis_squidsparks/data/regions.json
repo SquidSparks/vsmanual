@@ -5,12 +5,9 @@
         "starting": true,
         "exit_requires": {"Chapter 2": "|PYROMANIA|"}
     },
-    "Starting Singles":{
+    "Song Shop":{
         "connects_to": [],
         "starting": true
-    },
-    "Song Shop":{
-        "connects_to": []
     },
     "Chapter 2": {
         "connects_to": ["Chapter 3"],
@@ -21,11 +18,12 @@
         "exit_requires": {"Chapter 4": "|Last Wish|"}
         },
     "Chapter 4": {
-        "connects_to": ["Chapter 5", "Soundscan"],
+        "connects_to": ["Chapter 5"],
         "exit_requires": {"Chapter 5": "|SUPERNOVA|"}
         },
     "Soundscan": {
-        "connects_to": []
+        "connects_to": [],
+        "starting": true
     },
     "Chapter 5": {
         "connects_to": ["Chapter 6"],

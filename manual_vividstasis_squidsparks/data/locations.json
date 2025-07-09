@@ -601,443 +601,1356 @@
             "_comment": "i'm keeping the boss logic string fuck you"
         },
         {
-            "name": "Sunrise Showdown - Bonus Battery 1",
+            "name": "Intro to Soundscan - Bonus Battery 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Luxinvore",
+            "name": "Intro to Soundscan - Boost Tickets 1",
             "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Intro to Soundscan - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Intro to Soundscan - Soundscanner Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Intro to Soundscan - NULCTRL",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Intro to Soundscan - NULCTRL Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Intro to Soundscan - Bonus Battery Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Intro to Soundscan - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - NULCTRL",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|NULCTRL|"
+        },
+        {
+            "name": "GTS Part 1 - Bonus Battery 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - ULTIMATE",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - ULTIMATE Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Boost Tickets 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Trip Coffee",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Trip Coffee Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Bonus Battery 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan",
+            "_comment": "skipping encore locations because they don't matter"
+        },
+        {
+            "name": "GTS Part 1 - Rafflesia",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Rafflesia Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Boost Tickets 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - ULTIMATE Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Bonus Battery 3",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Battery 1",
+            "category": ["Sunrise Showdown"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - GTS Part 1 Completetionist Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 1 - Bonus Battery Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Trip Coffee",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Trip Coffee|"
+        },
+        {
+            "name": "Soundscan - ULTIMATE",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|ULTIMATE|"
+        },
+        {
+            "name": "Soundscan - Rafflesia",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Rafflesia|"
+        },
+        {
+            "name": "GTS Part 2 - Boost Tickets 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Sanzui",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Bonus Battery 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - WAVE PUNCH",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - WVAE PUNCH Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Boost Tickets 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Luminous Entities Lost Heart",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Luminous Entities Lost Heart Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Bonus Battery 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - WAVEDASH Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - Boost Tickets 3",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "GTS Part 2 - GTS Part 2 Completetionist Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Sanzui",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Sanzui|"
+        },
+        {
+            "name": "Soundscan - WAVE PUNCH",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|WAVE PUNCH|"
+        },
+        {
+            "name": "Soundscan - Luminous Entities Lost Heart",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Luminous Entities Lost Heart|"
+        },
+                {
+            "name": "UNBEATABLE - Boost Tickets",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Proper Rhythm",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Bonus Battery",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Proper Rhythm Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - WORN OUT TAPES [tally-ho! version]",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - WORN OUT TAPES Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - blank page Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Soundscan Medal 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "UNBEATABLE - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Proper Rhythm",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Proper Rhythm|"
+        },
+        {
+            "name": "Soundscan - WORN OUT TAPES [tally-ho! version]",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|WORN OUT TAPES [tally-ho! version]|"
+        },
+        {
+            "name": "7th Beat Games - 1234567 Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - All The Times",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - All The Times Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - It Go (Cheryl Stelli Remix)",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - It Go Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Boost Ticket",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Rhythm Doctor Certificate Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - LORELEI",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Soundscan Medal 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Bonus Battery",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "7th Beat Games - Bonus Point Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - All The Times",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|All The Times|"
+        },
+        {
+            "name": "Soundscan - It Go (Cheryl Stelli Remix)",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|It Go - Cheryl Stelli Remix|"
+        },
+        {
+            "name": "Soundscan - LORELEI",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|LORELEI|"
+        },
+        {
+            "name": "SKY HOUR WORKS - Bonus Batteries",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Faux Real (VIVID REDUX)",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Faux Real Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Boost Tickets",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - CITY RIDE IN THE JUNGLE",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - CITY RIDE IN THE JUNGLE Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Is this real..? Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Boost Tickets 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Faux Real Harmony Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "SKY HOUR WORKS - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Faux Real (VIVID REDUX)",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Faux Real - VIVID REDUX|"
+        },
+        {
+            "name": "Soundscan - CITY RIDE IN THE JUNGLE",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|CITY RIDE IN THE JUNGLE|"
+        },
+        {
+            "name": "YIIK IV - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Star Dream -Millenium Version-",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Star Dream -Millenium Version- Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Boost Tickets",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Battle in Enemy Territory",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Battle in Enemy Territory Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Millenium Debugger Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Bonus Battery",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Third Ending Hunter Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "YIIK IV - Bonus Battery Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Star Dream -Millenium Version-",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Star Dream -Millenium Version-|"
+        },
+        {
+            "name": "Soundscan - Battle in Ememy Territory",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Battle in Ememy Territory|"
+        },
+        {
+            "name": "lmtiwi - Soundscan Medals",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "lmtiwi - Boost Tickets",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "lmtiwi - Bonus Battery",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "lmtiwi - Bonus Points",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "lmtiwi - Bonus Point Storage",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "lmtiwi - Bonus Battery Storage",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "lmtiwi - ICT100KESMAAIGWTLT Title",
+            "category": ["Soundscan Maps", "long map"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Bonus Battery 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Boost Tickets 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Etiquette",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Etiquette Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Bonus Battery 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - IGNITED",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - IGNITED Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Boost Tickets 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Dreams From Another World",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Dreams From Anoter World Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Ignition Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Lucidity Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Etiquette Encore Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - IGNITED Harmony Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Dreams From Another World Encore Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "EX-XDRIVER - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Etiquette",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Etiquette|"
+        },
+        {
+            "name": "Soundscan - IGNITED",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|IGNITED|"
+        },
+        {
+            "name": "Soundscan - Dreams From Another World",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Dreams From Another World|"
+        },
+        {
+            "name": "Roteano - Bonus Battery 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Secret Illumination",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Secret Illumination Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Boost Tickets 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - MVURBD",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - MVURBD Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Illuminated Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - MOVE UR BODY!!! Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Roteano - Bonus Battery Expansion",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Secret Illumination",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Secret Illumination|"
+        },
+        {
+            "name": "Soundscan - MVURBD",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|MVURBD|"
+        },
+        {
+            "name": "Phigros - Boost Tickets",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Bonus Battery 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - micro.wav",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - micro.wav Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Distorted Fate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Distorted Fate Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Soundscan Medal 1",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Rrhar'il",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Rrhar'il Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Bonus Battery 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Data Patcher Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Chronnection Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Final Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Phigros - Soundscan Medal 2",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - micro.wav",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|micro.wav|"
+        },
+        {
+            "name": "Soundscan - Distorted Fate",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Distorted Fate|"
+        },
+        {
+            "name": "Soundscan - Rrhar'il",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Rrhar'il|"
+        },
+        {
+            "name": "Phigros - Bonus Battery Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Bonus Batteries",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Benighted Rewaking",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Benighted Rewaking Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Cat of Spades Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Images",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Images Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Pheonix of Hearts Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - MULTIPHEX",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - MULTIPHEX Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Hero of Clubs Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Dragon fo Diamonds Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Soundscan Medals",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - MULTIPHEX Backstage Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Joker of the Stars Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "NOISZ STARLIVHT - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Soundscan - Benighted Rewaking",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Benighted Rewaking|"
+        },
+        {
+            "name": "Soundscan - Images",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|Images|"
+        },
+        {
+            "name": "Soundscan - MULTIPHEX",
+            "category": "Soundscan Maps",
+            "region": "Soundscan",
+            "requires": "|MULTIPHEX|"
+        },
+        {
+            "name": "Sunrise Showdown - Luxinvore",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan",
             "_comment": "Doing this for The Void Access"
         },
         {
-            "name": "Sunrise Showdown - Gate 1",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Luxinvore Gate",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Boost Tickets 1",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Synthesis",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Gate 2",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Synthesis Gate",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Soundscan Medal 1",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - When the Dragon Falls",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Gate 3",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - When the Dragon Falls Gate",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Bonus Battery 2",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - And So You Felt",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Gate 4",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Sand So You Felt Gate",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Title 1",
-            "category": ["Soundscan Maps"],
-            "region": "Soundscan"
-        },
-        {
-            "name": "Sunrise Showdown - :3c",
-            "category": ["Soundscan Maps"],
-            "region": "Soundscan"
-        },
-        {
-            "name": "Sunrise Showdown - Gate 5",
-            "category": ["Soundscan Maps"],
-            "region": "Soundscan"
-        },
-        {
-            "name": "Sunrise Showdown - Bonus Battery Storage 1",
-            "category": ["Soundscan Maps"],
-            "region": "Soundscan"
-        },
-        {
-            "name": "Sunrise Showdown - Bonus Points Storage",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Sunrise Splash",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Surtr's Wish",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Gate 6",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Surtr's Wish Gate",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Title 2",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Bonus Battery Storage 1",
+            "category": ["Sunrise Showdown"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Bonus Points Storage",
+            "category": ["Sunrise Showdown"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - :3c",
+            "category": ["Sunrise Showdown"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - :3c Gate",
+            "category": ["Sunrise Showdown"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "Sunrise Showdown - Sunrise Standoff Title",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Boost Tickets 2",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Soundscan Medal 2",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Apocalypse Challenge",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Apocalypse Key",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan",
             "place_item": ["APOCALYPSE CALL"]
         },
         {
-            "name": "Sunrise Showdown - Title 3",
-            "category": ["Soundscan Maps"],
+            "name": "Sunrise Showdown - Sunrise Showdown Title",
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Final Gate",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Bonus Battery Storage 2",
-            "category": ["Soundscan Maps"],
+            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Luxinvore",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|Luxinvore|"
         },
         {
             "name": "Soundscan - Synthesis",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|Synthesis|"
         },
         {
             "name": "Soundscan - When the Dragon Falls",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|When the Dragon Falls|"
         },
         {
             "name": "Soundscan - And So You Felt",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|And So You Felt|"
         },
         {
             "name": "Soundscan - :3c",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|3c|"
         },
         {
             "name": "Soundscan - Surtr's Wish",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|Surtrs Wish|"
         },
         {
             "name": "Sunrise Showdown Challenge",
-            "category": "Soundscan Songs",
+            "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|@Sunrise Showdown:all|"
         },
         {
             "name": "Song Shop - There",
-            "category": ["Single Songs"],
-            "region": "Starting Singles"
+            "category": ["Shop Songs"],
+            "region": "Song Shop"
         },
         {
             "name": "Song Shop - Options",
-            "category": ["Single Songs"],
-            "region": "Starting Singles"
+            "category": ["Shop Songs"],
+            "region": "Song Shop"
         },
         {
             "name": "Song Shop - Crosshatch",
-            "category": ["Single Songs"],
-            "region": "Starting Singles"
+            "category": ["Shop Songs"],
+            "region": "Song Shop"
+        },
+        {
+            "name": "Song Shop - safe_state (MANIAQ Sound Team Remix)",
+            "category": ["Shop Songs"],
+            "region": "Song Shop"
         },
         {
             "name": "Song Shop - -1",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|-1|"
         },
         {
             "name": "Song Shop - 3, 2, 1, Let's Go",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|3, 2, 1, Let's Go|"
         },
         {
             "name": "Song Shop - Acolyte",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "requires": "|Acolyte|",
             "region": "Song Shop"
         },
         {
             "name": "Song Shop - Asymmetry (takehirotei remix)",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Asymmetry - takehirotei remix|"
         },
         {
             "name": "Song Shop - BADSECRET",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|BADSECRET|"
         },
         {
             "name": "Song Shop - Beyond the Heart (Broken Heart Mix)",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Beyond the Heart - Broken Heart Mix|"
         },
         {
             "name": "Song Shop - Credits",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Credits|"
         },
         {
             "name": "Song Shop - F1055",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "requires": "|F1055|",
             "region": "Song Shop"
         },
         {
             "name": "Song Shop - ENERGY SYNERGY MATRIX",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|ENERGY SYNERGY MATRIX|"
         },
         {
             "name": "Song Shop - FULi AUTO BUSTER",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|FULi AUTO BUSTER|"
         },
         {
             "name": "Song Shop - FULi AUTO SHOOTER",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|FULi AUTO SHOOTER|"
         },
         {
             "name": "Song Shop - G e n g a o z o",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|G e n g a o z o|"
         },
         {
             "name": "Song Shop - Gauntlet",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Gauntlet|"
         },
         {
             "name": "Song Shop - grode (Wyvren's Remix)",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|grode - Wyvren's Remix|"
         },
         {
             "name": "Song Shop  - Happy Go Lucky!!!",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Happy Go Lucky!!!|"
         },
         {
             "name": "Song Shop - HTTPS",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|HTTPS|"
         },
         {
             "name": "Song Shop - LET THE CREATION BEGIN",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|LET THE CREATION BEGIN|"
         },
         {
             "name": "Song Shop - Luminaria",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Luminaria|"
         },
         {
             "name": "Song Shop - Perfect ConfeCute!!",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Perfect ConfeCute!!|"
         },
         {
             "name": "Song Shop - Pictured as Perfect",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Pictured as Perfect|"
         },
         {
             "name": "Song Shop - Random",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Random|"
         },
         {
             "name": "Song Shop - slic.hertz",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|slic.hertz|"
         },
         {
             "name": "Song Shop - Spell Diver",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Spell Diver|"
         },
         {
             "name": "Song Shop - Spin Cycle - (NETCAVY ReMiX)",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Spin Cycle - NETCAVY ReMiX|"
         },
         {
             "name": "Song Shop - Stellaria",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Stellaria|"
         },
         {
             "name": "Song Shop - Synthesizer Party",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Synthesizer Party|"
         },
         {
             "name": "Song Shop - taffy",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|taffy|"
         },
         {
             "name": "Song Shop - TERABYTE CONNECTION",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|TERABYTE CONNECTION|"
         },
         {
             "name": "Song Shop - The 89's Momentum",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|The 89's Momentum|"
         },
         {
             "name": "Song Shop - The Next Arcady",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|The Next Arcady|"
         },
         {
             "name": "Song Shop - Un-TECHNiCAL Reason",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Un-TECHNiCAL Reason|"
         },
         {
             "name": "Song Shop - WATAGASHI RUSH",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|WATAGASHI RUSH|"
         },
         {
             "name": "Song Shop - What You Love",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|What You Love|"
         },
         {
             "name": "Song Shop - Yamai",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|Yamai|"
         },
         {
             "name": "Song Shop - INFiNiTE ENERZY -Overdoze-",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "requires": "|INFiNiTE ENERZY -Overdoze-|",
             "region": "Song Shop"
         },
         {
             "name": "Song Shop - grode(decoherence)",
-            "category": ["Single Songs"],
+            "category": ["Shop Songs"],
             "requires": "|grode decoherence|",
             "region": "Song Shop"
         },
         {
             "name": "Song Shop - 5 Songs Completed",
-            "category": ["Singles Completion"],
+            "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
             "requires": "|@ShopSongs:5|"
         },
         {
             "name": "Song Shop - 10 Songs Completed",
-            "category": ["Singles Completion"],
+            "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
             "requires": "|@ShopSongs:10|"
         },
         {
             "name": "Song Shop - 15 Songs Completed",
-            "category": ["Singles Completion"],
+            "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
             "requires": "|@ShopSongs:15|"
         },
         {
             "name": "Song Shop - 20 Songs Completed",
-            "category": ["Singles Completion"],
+            "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
             "requires": "|@ShopSongs:20|"
         },
         {
             "name": "Song Shop - 30 Songs Completed",
-            "category": ["Singles Completion"],
+            "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
             "requires": "|@ShopSongs:30|"
         },
         {
             "name": "Song Shop - 40 Songs Completed",
-            "category": ["Singles Completion"],
+            "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
             "requires": "|@ShopSongs:40|",
             "_comment": "END SONG SHOP LOCATIONS"
@@ -1098,7 +2011,7 @@
         {
             "name": "Lock P, PYROMANIA Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Ch1Songs:5|",
+            "requires": "|@Chapter 1 Songs:5|",
             "region": "Chapter 1",
             "place_item": [
 			    "PYROMANIA"
@@ -1181,7 +2094,7 @@
         {
             "name": "Lock V, valor/starcross Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Ch2Songs:5|",
+            "requires": "|@Chapter 2 Songs:5|",
             "region": "Chapter 2",
             "place_item": [
 			    "valor/starcross"
@@ -1196,7 +2109,7 @@
         {
             "name": "Lock U, Unraveling Stasis Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Ch2Songs:5| AND |PYROMANIA| AND |valor/starcross|",
+            "requires": "|@Chapter 2 Songs:5| AND |PYROMANIA| AND |valor/starcross|",
             "region": "Chapter 2",
             "place_item": [
 			    "Unraveling Stasis"
@@ -1867,7 +2780,7 @@
         {
             "name": "Lock C - CLAUDIA -libertia- Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Ch5Songs:5|",
+            "requires": "|@Chapter 5 Songs:5|",
             "region": "Chapter 5",
             "place_item": [
 			    "CLAUDIA -libertia-"
@@ -1916,7 +2829,7 @@
         },
         {
             "name": "Chapter 5 - Crimson Dance (vivid/stasis Edit)",
-            "category": ["Chapter  Songs"],
+            "category": ["Chapter 5 Songs"],
             "region": "Chapter 5",
             "requires": "|Crimson Dance - vivid/stasis Edit|"
         },
@@ -2005,7 +2918,7 @@
         {
             "name": "Guaridan Intervention - CONVERGENCE Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Ch6Songs:10|",
+            "requires": "|@Chapter 6 Songs:10|",
             "region": "Chapter 6",
             "place_item": [
 			    "CONVERGENCE"

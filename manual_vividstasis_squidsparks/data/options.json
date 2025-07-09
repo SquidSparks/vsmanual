@@ -7,7 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
+            "description": "Select where to end the game",
             "aliases": {"easiest": 0},
             "hidden": false
         },
@@ -22,60 +22,22 @@
         }
     },
     "user": {
-        "_commented_out_option":{
+        "song_shop":{
+            "description": ["Adds the Song Shop to the item and location pool."],
             "type": "Toggle",
-            "default": true
+            "default": false
         },
-        "Example_Toggle":{
+        "soundscan_maps":{
+            "description": ["Adds the Soundscan Maps to the location pool. Does not turn off the Sunrise Showdown map as that is a requirement for the Encore Episode Goal"],
+            "type": "Toggle",
+            "default": false
+        },
+        "long_map_that_isnt_worth_it":{
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Adds the long map that isnt worth it to the location pool. Do not do this"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Example Options"
-        },
-        "Example_Choice":{
-            "type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
+            "default": false
         }
     }
 

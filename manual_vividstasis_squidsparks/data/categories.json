@@ -1,9 +1,13 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
-        "hidden": true
+    "Shop Songs": {
+        "yaml_option": ["song_shop"]
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Soundscan Maps": {
+        "yaml_option": ["soundscan_maps"]
+    },
+    "long map": {
+        "yaml_option": ["long_map_that_isnt_worth_it"],
+        "hidden": false
     }
 }
