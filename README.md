@@ -6,11 +6,12 @@ After a whole month of work ~and having to redo half of it because of the offica
 Currently updated to 5.0
 
 ## Things in this rando:
-- Items: Songs, Landing Keys, Tamasatchi Egg, Void Lens, Batteries(Filler), Gems(Filler)
+- Items: Songs, Landing Keys, Tamasatchi Egg, Void Lens,Soundscan Medals(Useful), Batteries(Filler), Points(Filler), Gems(Filler)
 - Locations : Node Flowchart, Song Clears, Betweenspace(Songs, Gems, Landing Keys, Egg, Void Lens), Soundscan, Unity Nexus Terminals
 
-(NEW) Yaml Options:
+Yaml Options:
 - Song Shop: Adds Song Shop items and Locations to the pool
+- Include Betweenspace Gems: Adds Gem Locations to the pool. Does nothing to the Gem item inside Manual
 - Soundscan Maps: Adds all Soundscan maps to the pool with the exceptions of Sunrise Showdown(goal requirement) and Encore Ensemble(didn't want to do it)
 - long map: adds the long soundscan map that isn't worth it.
 
@@ -41,10 +42,9 @@ If you know how to generally use custom apworlds or manuals, you can skip this s
 
 ### Game Setup
 
-This manual makes liberal use of two(or three) accessibility options that can be enabled from the Options Menu.
+This manual makes liberal use of two accessibility options that can be enabled from the Options Menu.
 - **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the game
 - **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors(Logically Story Locks only require a certain amount of that Chapter's songs).
-- **Unlock All Modes:** Bypasses the Shop and Soundscan Locks. Mostly useful if you turn the Shop or Soundscan on
 
 There are also other settings you can adjust to your liking in this menu
 - **Currency Multiplier:** Reduces grinding for Points and Battery.
