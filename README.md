@@ -30,18 +30,6 @@ What you'll need:
 - the apworld
 - a new save file(You can reset story progress from the options menu, the game automatically makes backups of your saves but I reccommend making another just in case)
 
-### APWorld Setup
-
-If you know how to generally use custom apworlds or manuals, you can skip this step. If you don't here's a quick rundown how to do that
-
-- Download the apworld
-- Double-click it to autoinstall it to your Archipelago installation. You can also install it manually by placing it in the `custom_worlds` folder
-- Open the Launcher. and select "Generate Template Options". This will generate your YAML template. Adjust this to your liking
-- Generate your game locally and upload it to the site to host the server(you do not need to do this if you're not hosting)
-- Connect to the server with the Manual Client, and start playing!
-
-### Game Setup
-
 This manual makes liberal use of two accessibility options that can be enabled from the Options Menu.
 - **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the game
 - **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors
