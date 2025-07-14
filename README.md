@@ -22,7 +22,8 @@ Goals:
 
 ### Warning: It is Strongly Advised that you beat this game normally first before using this manual.
 I can't stop you if you don't, but you are ruining it for yourself.
-\
+
+
 What you'll need:
 - [the game](https://store.steampowered.com/app/2093940/vividstasis/)(it's free!)
 - the apworld
