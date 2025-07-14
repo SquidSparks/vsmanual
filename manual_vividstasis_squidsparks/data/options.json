@@ -27,6 +27,11 @@
             "type": "Toggle",
             "default": false
         },
+        "include_betweenspace_gems":{
+            "description": ["Adds Gem Locations to the pool"],
+            "type": "Toggle",
+            "default": false
+        },
         "soundscan_maps":{
             "description": ["Adds the Soundscan Maps to the location pool. Does not turn off the Sunrise Showdown map as that is a requirement for the Encore Episode Goal"],
             "type": "Toggle",

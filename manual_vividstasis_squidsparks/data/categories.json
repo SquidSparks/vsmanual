@@ -3,6 +3,9 @@
     "Shop Songs": {
         "yaml_option": ["song_shop"]
     },
+    "Betweenspace Gems": {
+        "yaml_option": ["include_betweenspace_gems"]
+    },
     "Soundscan Maps": {
         "yaml_option": ["soundscan_maps"]
     },

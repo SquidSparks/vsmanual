@@ -2005,7 +2005,7 @@
         {
             "name": "Lock P, PYROMANIA Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 1 Songs:5|",
+            "requires": "|@Chapter 1 Songs:5| AND @Progressive Cycle:1|",
             "region": "Chapter 1",
             "place_item": [
 			    "PYROMANIA"
@@ -2088,7 +2088,7 @@
         {
             "name": "Lock V, valor/starcross Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 2 Songs:5|",
+            "requires": "|@Chapter 2 Songs:5| AND |@Progressive Cycle:2|",
             "region": "Chapter 2",
             "place_item": [
 			    "valor/starcross"
@@ -2103,7 +2103,7 @@
         {
             "name": "Lock U, Unraveling Stasis Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 2 Songs:5| AND |PYROMANIA| AND |valor/starcross|",
+            "requires": "|@Chapter 2 Songs:5| AND |PYROMANIA| AND |valor/starcross| AND |@Progressive Cycle:3|",
             "region": "Chapter 2",
             "place_item": [
 			    "Unraveling Stasis"
@@ -2418,6 +2418,7 @@
         {
             "name": "Shatter Your Fate - Last Wish Access",
             "category": ["Chapter 3 Songs", "Boss Songs"],
+            "requires": "|@Progressive Cycle:4|",
             "region": "Chapter 3",
             "place_item": [
 			    "Last Wish"
@@ -2717,7 +2718,7 @@
         {
             "name": "Lock S - SUPERNOVA Access",
             "category": ["Cycle Locks"],
-            "requires": "|TVO Miracle|",
+            "requires": "|TVO Miracle| AND |@Progressive Cycle:5|",
             "region": "Chapter 4",
             "place_item": [
 			    "SUPERNOVA"
@@ -2774,7 +2775,7 @@
         {
             "name": "Lock C - CLAUDIA -libertia- Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 5 Songs:5|",
+            "requires": "|@Chapter 5 Songs:5| AND |@Progressive Cycle:6|",
             "region": "Chapter 5",
             "place_item": [
 			    "CLAUDIA -libertia-"
@@ -2912,7 +2913,7 @@
         {
             "name": "Guaridan Intervention - CONVERGENCE Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 6 Songs:10|",
+            "requires": "|@Chapter 6 Songs:10| AND |@Progressive Cycle:All|",
             "region": "Chapter 6",
             "place_item": [
 			    "CONVERGENCE"

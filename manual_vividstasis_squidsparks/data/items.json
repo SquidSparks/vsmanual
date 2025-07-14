@@ -2,6 +2,31 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
+            "name": "Progressive Cycle",
+            "category": [
+                "Cycle Locks"
+            ],
+            "count": 7,
+            "progression": true
+        },
+        {
+            "name": "Points",
+            "category": [
+                "Filler"
+            ],
+            "count": 100,
+            "filler": true
+        },
+        {
+            "name": "Soundscan Medal",
+            "category": [
+                "Soundscan Medal"
+            ],
+            "count": 38,
+            "useful": true,
+            "_comment": "All maps up to Sunrise Showdown accounted for. Added and extra 5 because I don't know how many the NOISZ scan has"
+        },
+        {
             "name": "grode",
             "category": [
                 "Chapter 1 Songs"
