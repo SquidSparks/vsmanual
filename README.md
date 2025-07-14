@@ -21,7 +21,8 @@ Goals:
 ## How to use
 
 ### Warning: It is Strongly Advised that you beat this game normally first before using this manual.
-
+I can't stop you if you don't, but you are ruining it for yourself.
+\
 What you'll need:
 - [the game](https://store.steampowered.com/app/2093940/vividstasis/)(it's free!)
 - the apworld
@@ -40,7 +41,7 @@ If you know how to generally use custom apworlds or manuals, you can skip this s
 ### Game Setup
 
 This manual makes liberal use of two(or three) accessibility options that can be enabled from the Options Menu.
-- **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the Node Flowchart.
+- **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the game
 - **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors(Logically Story Locks only require a certain amount of that Chapter's songs).
 - **Unlock All Modes:** Bypasses the Shop and Soundscan Locks. Mostly useful if you turn the Shop or Soundscan on
 
