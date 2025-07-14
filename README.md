@@ -1,7 +1,8 @@
 # vivid/stasis manual apworld
-###### nobody asked for this.
+###### ~nobody asked for this.~
+nevermind people are indeed asking for this
 
-After a whole month of work ~and having to redo half of it because of the offical release~, you can play vivid/stasis in your multiworld. I don't know why you would, but you can!\
+After a whole month of work ~and having to redo half of it because of the offical release~,  vivid/stasis has a manual apworld.\
 Currently updated to 5.0
 
 ## Things in this rando:
@@ -47,6 +48,7 @@ There are also other settings you can adjust to your liking in this menu
 - **Currency Multiplier:** Reduces grinding for Points and Battery.
 - **Flowchart Unlocks(Story):** Allows you to skip using Batteries for Story nodes.
 - **Assist Mode:** Removes Challenge Gauges from Boss Songs.
+- **Autoplay:** The game plays itself. Not really recommend for anything other than Soundscan gates you can't bypass manually.
 
 Other helpful resources for this manual
 - The [shrinereport Hints Hub](https://shrinereport.xyz/hints/hub.html) for puzzle solutions.(Enabling hints lets you press shift to automatically open the page on story locks)
