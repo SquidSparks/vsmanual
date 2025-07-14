@@ -44,7 +44,7 @@ If you know how to generally use custom apworlds or manuals, you can skip this s
 
 This manual makes liberal use of two accessibility options that can be enabled from the Options Menu.
 - **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the game
-- **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors(Logically Story Locks only require a certain amount of that Chapter's songs).
+- **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors
 
 There are also other settings you can adjust to your liking in this menu
 - **Currency Multiplier:** Reduces grinding for Points and Battery.
@@ -55,3 +55,6 @@ There are also other settings you can adjust to your liking in this menu
 Other helpful resources for this manual
 - The [shrinereport Hints Hub](https://shrinereport.xyz/hints/hub.html) for puzzle solutions.(Enabling hints lets you press shift to automatically open the page on story locks)
 - [hack's Betweenspace Maps](https://hack-3r64.github.io/betweenspace/) to make finding gems and Songs easier.(Currently outdated, the hidden areas in Layer 1 are in a seperate hub area now and some songs got swapped out. Everything else location-wise is accurate)
+- Universal Tracker because this game has a Lot of checks if you enable everything\
+[0.2.10 for 0.6.1](https://github.com/FarisTheAncient/Archipelago/releases/tag/Tracker_v0.2.10)\
+[0.2.10MD for 0.6.2 and above presumably](https://github.com/FarisTheAncient/Archipelago/releases/tag/Tracker_v0.2.10MD)
