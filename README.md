@@ -54,4 +54,4 @@ There are also other settings you can adjust to your liking in this menu
 
 Other helpful resources for this manual
 - The [shrinereport Hints Hub](https://shrinereport.xyz/hints/hub.html) for puzzle solutions.(Enabling hints lets you press shift to automatically open the page on story locks)
-- [hack's Betweenspace Maps](https://hack-3r64.github.io/betweenspace/) to make finding gems and Songs easier.(Currently outdated, the hidden areas in Layer 1 are in a seperate hub area now and some songs got swapped out. Everything else location-wise)
+- [hack's Betweenspace Maps](https://hack-3r64.github.io/betweenspace/) to make finding gems and Songs easier.(Currently outdated, the hidden areas in Layer 1 are in a seperate hub area now and some songs got swapped out. Everything else location-wise is accurate)
