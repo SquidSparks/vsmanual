@@ -1916,37 +1916,37 @@
             "name": "Song Shop - 5 Songs Completed",
             "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
-            "requires": "|@ShopSongs:5|"
+            "requires": "|@Shop Songs:5|"
         },
         {
             "name": "Song Shop - 10 Songs Completed",
             "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
-            "requires": "|@ShopSongs:10|"
+            "requires": "|@Shop Songs:10|"
         },
         {
             "name": "Song Shop - 15 Songs Completed",
             "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
-            "requires": "|@ShopSongs:15|"
+            "requires": "|@Shop Songs:15|"
         },
         {
             "name": "Song Shop - 20 Songs Completed",
             "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
-            "requires": "|@ShopSongs:20|"
+            "requires": "|@Shop Songs:20|"
         },
         {
             "name": "Song Shop - 30 Songs Completed",
             "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
-            "requires": "|@ShopSongs:30|"
+            "requires": "|@Shop Songs:30|"
         },
         {
             "name": "Song Shop - 40 Songs Completed",
             "category": ["Shop Songs", "Singles Completetion"],
             "region": "Song Shop",
-            "requires": "|@ShopSongs:40|",
+            "requires": "|@Shop Songs:40|",
             "_comment": "END SONG SHOP LOCATIONS"
         },
         {
@@ -2005,7 +2005,7 @@
         {
             "name": "Lock P, PYROMANIA Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 1 Songs:5| AND @Progressive Cycle:1|",
+            "requires": "|@Chapter 1 Songs:5| AND |Progressive Cycle:1|",
             "region": "Chapter 1",
             "place_item": [
 			    "PYROMANIA"
@@ -2088,7 +2088,7 @@
         {
             "name": "Lock V, valor/starcross Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 2 Songs:5| AND |@Progressive Cycle:2|",
+            "requires": "|@Chapter 2 Songs:5| AND |Progressive Cycle:2|",
             "region": "Chapter 2",
             "place_item": [
 			    "valor/starcross"
@@ -2103,7 +2103,7 @@
         {
             "name": "Lock U, Unraveling Stasis Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 2 Songs:5| AND |PYROMANIA| AND |valor/starcross| AND |@Progressive Cycle:3|",
+            "requires": "|@Chapter 2 Songs:5| AND |PYROMANIA| AND |valor/starcross| AND |Progressive Cycle:3|",
             "region": "Chapter 2",
             "place_item": [
 			    "Unraveling Stasis"
@@ -2418,7 +2418,7 @@
         {
             "name": "Shatter Your Fate - Last Wish Access",
             "category": ["Chapter 3 Songs", "Boss Songs"],
-            "requires": "|@Progressive Cycle:4|",
+            "requires": "|Progressive Cycle:4|",
             "region": "Chapter 3",
             "place_item": [
 			    "Last Wish"
@@ -2656,13 +2656,13 @@
         {
             "name": "Betweenspace - Candy@Cracker",
             "category": ["Betweenspace Nodes"],
-            "requires": "|Landing Key - Candy@Cracker|",
+            "requires": "|Landing Key - CandyCracker|",
             "region": "Chapter 4"
         },
         {
             "name": "Final Landing - Candy@Cracker",
             "category": ["Final Landing"],
-            "requires": "|Candy@Cracker|",
+            "requires": "|CandyCracker|",
             "region": "Chapter 4"
         },
         {
@@ -2702,7 +2702,7 @@
         {
             "name": "Porta Futuri - ASTELLION Access",
             "category": ["Landing Keys"],
-            "requires": "|The Last Page| AND |Candy@Cracker| AND |Orphen| AND |3.1V.C1|",
+            "requires": "|The Last Page| AND |CandyCracker| AND |Orphen| AND |3.1V.C1|",
             "region": "Chapter 4",
             "place_item": [
 			    "ASTELLION"
@@ -2718,7 +2718,7 @@
         {
             "name": "Lock S - SUPERNOVA Access",
             "category": ["Cycle Locks"],
-            "requires": "|TVO Miracle| AND |@Progressive Cycle:5|",
+            "requires": "|TVO Miracle| AND |Progressive Cycle:5|",
             "region": "Chapter 4",
             "place_item": [
 			    "SUPERNOVA"
@@ -2775,7 +2775,7 @@
         {
             "name": "Lock C - CLAUDIA -libertia- Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 5 Songs:5| AND |@Progressive Cycle:6|",
+            "requires": "|@Chapter 5 Songs:5| AND |Progressive Cycle:6|",
             "region": "Chapter 5",
             "place_item": [
 			    "CLAUDIA -libertia-"
@@ -2913,7 +2913,7 @@
         {
             "name": "Guaridan Intervention - CONVERGENCE Access",
             "category": ["Cycle Locks"],
-            "requires": "|@Chapter 6 Songs:10| AND |@Progressive Cycle:All|",
+            "requires": "|@Chapter 6 Songs:10| AND |Progressive Cycle:All|",
             "region": "Chapter 6",
             "place_item": [
 			    "CONVERGENCE"
