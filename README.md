@@ -6,8 +6,8 @@ After a whole month of work ~and having to redo half of it because of the offica
 Currently updated to 5.0
 
 ## Things in this rando:
-- Items: Songs, Progrssive Cycles, Landing Keys, Tamasatchi Egg, Void Lens,Soundscan Medals(Useful), Batteries(Filler), Points(Filler), Gems(Filler)
-- Locations : Node Flowchart, Song Clears, Betweenspace(Songs, Gems, Landing Keys, Egg, Void Lens), Soundscan, Unity Nexus Terminals
+- Items: Songs, Progrssive Cycles, Important Object/Miracle, Tamasatchi Egg, Void Lens,Soundscan Medals(Useful), Batteries(Filler), Points(Filler), Gems(Filler)
+- Locations : Node Flowchart, Song Clears, Betweenspace(Songs, Gems, Egg, Void Lens), Soundscan, Unity Nexus Terminals
 - Starting Items: grode, 1 random Chapter 1 song. (If Song Shop is enabled): There, Options, safe_state
 
 Yaml Options:
@@ -17,6 +17,7 @@ Yaml Options:
 - long map: adds the long soundscan map that isn't worth it.
 
 Goals:
+- Last Wish
 - acta est fabula, plaudite
 - Encore Episode
 
