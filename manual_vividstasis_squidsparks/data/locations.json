@@ -293,13 +293,13 @@
             "name": "Node Flowchart - Story: Episode 22'.1",
             "category": ["Node Flowchart"],
             "region": "Chapter 3",
-            "requires": "|TVO Miracle|"
+            "requires": "|Miracle|"
         },
         {
             "name": "Node Flowchart - Story: Episode 22'.2",
             "category": ["Node Flowchart"],
             "region": "Chapter 3",
-            "requires": "|TVO Miracle|"
+            "requires": "|Miracle|"
         },
         {
             "name": "Node Flowchart - Story: Episode 23",
@@ -2258,6 +2258,38 @@
             "region": "Chapter 3" 
         },
         {
+            "name": "Gem in Waterfall Caves Beside L",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Invisible Maze",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3",
+            "place_item_category": ["Filler"],
+            "_comment": "i'm not making you do the maze fuck that"
+        },
+        {
+            "name": "Gem in Waterfall Caves Above Long Ladder",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Waterfall Caves Behind Waterfall",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Waterfall Caves Before Grave",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Gem in Waterfall Caves Before MARENOL Room",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3"
+        },
+        {
             "name": "Gem in Library Next to Door",
             "category": ["Gem Locations"],
             "region": "Chapter 3" 
@@ -2474,6 +2506,13 @@
             "region": "Chapter 3"
         },
         {
+            "name": "This is Your Last Wish",
+            "category": ["GOAL"],
+            "requires": "|Last Wish|",
+            "region": "Chapter 3",
+            "victory": true
+        },
+        {
             "name": "Gem in Forest Below Landing Key Right",
             "category": ["Gem Locations"],
             "region": "Chapter 4"
@@ -2584,38 +2623,6 @@
             "region": "Chapter 4"
         },
         {
-            "name": "Gem in Waterfall Caves Beside L",
-            "category": ["Gem Locations"],
-            "region": "Chapter 4"
-        },
-        {
-            "name": "Gem in Invisible Maze",
-            "category": ["Gem Locations"],
-            "region": "Chapter 4",
-            "place_item_category": ["Filler"],
-            "_comment": "i'm not making you do the maze fuck that"
-        },
-        {
-            "name": "Gem in Waterfall Caves Above Long Ladder",
-            "category": ["Gem Locations"],
-            "region": "Chapter 4"
-        },
-        {
-            "name": "Gem in Waterfall Caves Behind Waterfall",
-            "category": ["Gem Locations"],
-            "region": "Chapter 4"
-        },
-        {
-            "name": "Gem in Waterfall Caves Before Grave",
-            "category": ["Gem Locations"],
-            "region": "Chapter 4"
-        },
-        {
-            "name": "Gem in Waterfall Caves Before MARENOL Room",
-            "category": ["Gem Locations"],
-            "region": "Chapter 4"
-        },
-        {
             "name": "Gem in Fishing Spot Above Start",
             "category": ["Gem Locations"],
             "region": "Chapter 4"
@@ -2649,17 +2656,6 @@
         },
         {
             "name": "Betweenspace - NONSENSE",
-            "category": ["Betweenspace Nodes"],
-            "region": "Chapter 4"
-        },
-        {
-            "name": "Chapter 4 - STARGAZERS",
-            "category": ["Chapter 4 Songs"],
-            "requires": "|STARGAZERS|",
-            "region": "Chapter 4"
-        },
-        {
-            "name": "Betweenspace - STARGAZERS",
             "category": ["Betweenspace Nodes"],
             "region": "Chapter 4"
         },
@@ -2743,12 +2739,12 @@
             "category": ["Final Landing", "Boss Songs"],
             "requires": "|ASTELLION|",
             "region": "Chapter 4",
-            "place_item": ["TVO Miracle"]
+            "place_item": ["Miracle"]
         },
         {
             "name": "Lock S - SUPERNOVA Access",
             "category": ["Cycle Locks"],
-            "requires": "|TVO Miracle| AND |Progressive Cycle:5|",
+            "requires": "|Miracle| AND |Progressive Cycle:5|",
             "region": "Chapter 4",
             "place_item": [
 			    "SUPERNOVA"
@@ -2757,6 +2753,18 @@
         {
             "name": "Chapter 4 - SUPERNOVA",
             "category": ["Chapter 4 Songs", "Boss Songs"],
+            "requires": "|SUPERNOVA|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Chapter 4 - STARGAZERS",
+            "category": ["Chapter 4 Songs"],
+            "requires": "|STARGAZERS| AND |SUPERNOVA|",
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Betweenspace - STARGAZERS",
+            "category": ["Betweenspace Nodes"],
             "requires": "|SUPERNOVA|",
             "region": "Chapter 4"
         },
@@ -2837,8 +2845,8 @@
             "region": "Chapter 5"
         },
         {
-            "name": "Duskbreaker Intermission - SENT://INEL Access",
-            "category": ["Intermissions"],
+            "name": "Betweenspace Layer 2 - SENT://INEL Access",
+            "category": ["Chapter 5 Songs", "Interference"],
             "requires": "|CLAUDIA -libertia-| AND |stop-motion|",
             "region": "Chapter 5",
             "place_item": [
@@ -2965,19 +2973,19 @@
         {
             "name": "Chapter 7 - Bloom in Two",
             "category": ["Chapter 7 Songs", "Unity Nexus"],
-            "requires": "|Bloom in Two|",
+            "requires": "|Bloom in Two| AND |thrinos;pygmalion|",
             "region": "Unity Nexus"
         },
         {
             "name": "Chapter 7 - Unknown Absolute",
             "category": ["Chapter 7 Songs", "Unity Nexus"],
-            "requires": "|Unknown Absolute|",
+            "requires": "|Unknown Absolute| AND |Bloom in Two|",
             "region": "Unity Nexus"
         },
         {
             "name": "Chapter 7 - First Breath",
             "category": ["Chapter 7 Songs", "Unity Nexus"],
-            "requires": "|First Breath|",
+            "requires": "|First Breath| AND |First Breath|",
             "region": "Unity Nexus"
         },
         {
@@ -3003,6 +3011,12 @@
             "place_item": [
 			    "acta est fabula, plaudite"
             ]
+        },
+        {
+            "name": "Chapter 7 - acta est fabula, plaudite",
+            "category": ["GOAL"],
+            "requires": "|acta est fabula, plaudite|",
+            "region": "Plaudite"
         },
         {
             "name": "acta est fabula, plaudite",
