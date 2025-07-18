@@ -351,6 +351,13 @@
             "progression": true
         },
         {
+            "name": "NONSENSE",
+            "category": [
+                "Chapter 4 Songs"
+            ],
+            "progression": true
+        },
+        {
             "name": "execution_program",
             "category": [
                 "Bosses",
@@ -382,14 +389,6 @@
             "progression": true
         },
         {
-            "name": "Landing Key - The Last Page",
-            "category": [
-                "Final Landing",
-                "Landing Keys"
-            ],
-            "progression": true
-        },
-        {
             "name": "The Last Page",
             "category": [
                 "Final Landing",
@@ -406,26 +405,10 @@
             "progression": true
         },
         {
-            "name": "Landing Key - CandyCracker",
-            "category": [
-                "Final Landing",
-                "Landing Keys"
-            ],
-            "progression": true
-        },
-        {
             "name": "Orphen",
             "category": [
                 "Final Landing",
                 "Bedroom Playlist"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Landing Key - Orphen",
-            "category": [
-                "Final Landing",
-                "Landing Keys"
             ],
             "progression": true
         },
@@ -438,14 +421,6 @@
             "progression": true
         },
         {
-            "name": "Landing Key - 3.1V.C1",
-            "category": [
-                "Final Landing",
-                "Landing Keys"
-            ],
-            "progression": true
-        },
-        {
             "name": "ASTELLION",
             "category": [
                 "Final Landing"
@@ -453,9 +428,16 @@
             "progression": true
         },
         {
+            "name": "Important Object",
+            "category": [
+                "Miracle"
+            ],
+            "progression": true
+        },
+        {
             "name": "TVO Miracle",
             "category": [
-                "TVO Interventions"
+                "Miracle"
             ],
             "progression": true
         },

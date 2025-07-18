@@ -34,16 +34,19 @@
         {
             "name": "Node Flowchart - Story: Episode 6.2",
             "category": ["Node Flowchart"],
+            "requires": "|PYROMANIA|",
             "region": "Chapter 1"
         },
         {
             "name": "Node Flowchart - Story: Episode 7.1",
             "category": ["Node Flowchart"],
+            "requires": "|PYROMANIA|",
             "region": "Chapter 1"
         },
         {
             "name": "Node Flowchart - Story: Episode 8",
             "category": ["Node Flowchart"],
+            "requires": "|PYROMANIA|",
             "region": "Chapter 1"
         },
         {
@@ -78,6 +81,11 @@
         },
         {
             "name": "Node Flowchart - ENERGY SYNERGY MATRIX",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 1"
+        },
+        {
+            "name": "Node Flowchart - Crosshatch",
             "category": ["Node Flowchart"],
             "region": "Chapter 1"
         },
@@ -125,16 +133,19 @@
         {
             "name": "Node Flowchart - Story: Episode 14.2",
             "category": ["Node Flowchart"],
+            "requires": "|valor/starcross|",
             "region": "Chapter 2"
         },
         {
             "name": "Node Flowchart - Story: Episode 15",
             "category": ["Node Flowchart"],
+            "requires": "|valor/starcross|",
             "region": "Chapter 2"
         },
         {
             "name": "Node Flowchart - Story: Episode 15.2",
             "category": ["Node Flowchart"],
+            "requires": "|Unraveling Stasis|",
             "region": "Chapter 2"
         },
         {
@@ -153,12 +164,22 @@
             "region": "Chapter 2"
         },
         {
+            "name": "Node Flowchart - energy trixxx",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
             "name": "Node Flowchart - Prime",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
         },
         {
             "name": "Node Flowchart - Revelation",
+            "category": ["Node Flowchart"],
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Farewell To Syzygia",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
         },
@@ -303,21 +324,25 @@
         {
             "name": "Node Flowchart - Story: Episode 26, Act 2",
             "category": ["Node Flowchart"],
+            "requires": "|CLADIA -libertia-|",
             "region": "Chapter 5"
         },
         {
             "name": "Node Flowchart - Story: Episode 26, Act 3",
             "category": ["Node Flowchart"],
+            "requires": "|CLADIA -libertia-|",
             "region": "Chapter 5"
         },
                 {
             "name": "Node Flowchart - Story: Episode 26, Act 4",
             "category": ["Node Flowchart"],
+            "requires": "|CLADIA -libertia-|",
             "region": "Chapter 5"
         },
         {
             "name": "Node Flowchart - Story: Episode 26, Act 5",
             "category": ["Node Flowchart"],
+            "requires": "|CLADIA -libertia-|",
             "region": "Chapter 5"
         },
         {
@@ -571,27 +596,27 @@
             "name": "Unity Nexus - Bedroom Terminal",
             "category": ["Unity Nexus"],
             "region": "Unity Nexus",
-            "requires": "|@Bedroom Playlist:1|",
+            "requires": "|@Bedroom Playlist:1| AND |thrinos;pygmalion|",
             "_comment": "Behold the easier way to do this"
         },
         {
             "name": "Unity Nexus - Living Room Terminal",
             "category": ["Unity Nexus"],
             "region": "Unity Nexus",
-            "requires": "|@Living Room Playlist:1|"
+            "requires": "|@Living Room Playlist:1| AND |Bloom in Two|"
         },
         {
             "name": "Unity Nexus - Kitchen Terminal",
             "category": ["Unity Nexus"],
             "region": "Unity Nexus",
-            "requires": "|@Kitchen Playlist:1|",
+            "requires": "|@Kitchen Playlist:1| AND |Unknown Absolute|",
             "_comment": "I still might need to change this"
         },
         {
             "name": "Unity Nexus - Dining Room Terminal",
             "category": ["Unity Nexus"],
             "region": "Unity Nexus",
-            "requires": "|PYROMANIA| OR |valor/starcross| OR |Unraveling Stasis| OR |ASTELLION| OR |SUPERNOVA| OR |Last Wish| OR |CLAUDIA -libertia-| OR |stop-motion| OR |SENTINEL| OR |CONVERGENCE| OR |thrinos;pygmalion| OR |Bloom in Two| OR |Unknown Absolute|",
+            "requires": "|PYROMANIA| OR |valor/starcross| OR |Unraveling Stasis| OR |ASTELLION| OR |SUPERNOVA| OR |Last Wish| OR |CLAUDIA -libertia-| OR |stop-motion| OR |SENTINEL| OR |CONVERGENCE| OR |thrinos;pygmalion| OR |Bloom in Two| OR |Unknown Absolute| AND |First Breath|",
             "_comment": "i'm keeping the boss logic string fuck you"
         },
         {
@@ -1686,11 +1711,7 @@
             "category": ["Shop Songs"],
             "region": "Song Shop"
         },
-        {
-            "name": "Song Shop - Crosshatch",
-            "category": ["Shop Songs"],
-            "region": "Song Shop"
-        },
+    
         {
             "name": "Song Shop - safe_state (MANIAQ Sound Team Remix)",
             "category": ["Shop Songs"],
@@ -1743,12 +1764,6 @@
             "category": ["Shop Songs"],
             "requires": "|F1055|",
             "region": "Song Shop"
-        },
-        {
-            "name": "Song Shop - ENERGY SYNERGY MATRIX",
-            "category": ["Shop Songs"],
-            "region": "Song Shop",
-            "requires": "|ENERGY SYNERGY MATRIX|"
         },
         {
             "name": "Song Shop - FULi AUTO BUSTER",
@@ -1973,6 +1988,11 @@
             "region": "Chapter 1"
         },
         {
+            "name": "Chapter 1 - Crosshatch",
+            "category": ["Chapter 1 Songs"],
+            "region": "Chapter 1"
+        },
+        {
             "name": "Chapter 1 - QUASAR",
             "category": ["Chapter 1 Songs"],
             "requires": "|QUASAR|",
@@ -1989,6 +2009,12 @@
             "category": ["Chapter 1 Songs"],
             "requires": "|septima|",
             "region": "Chapter 1"
+        },
+        {
+            "name": "Chapter 1 - ENERGY SYNERGY MATRIX",
+            "category": ["Chapter 1 Songs"],
+            "region": "Chapter 1",
+            "requires": "|ENERGY SYNERGY MATRIX|"
         },
         {
             "name": "Chapter 1 - Chronomia",
@@ -2074,7 +2100,7 @@
             "region": "Chapter 2"
         },
         {
-            "name": "Chapter 2 - energy trixxx",
+            "name": "Chapter 2 - ",
             "category": ["Chapter 2 Songs"],
             "region": "Chapter 2",
             "requires": "|energy trixxx|"
@@ -2226,6 +2252,11 @@
         },
         {
             "name": "Gem in Library Next to Door",
+            "category": ["Gem Locations"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library Behind Bookcases",
             "category": ["Gem Locations"],
             "region": "Chapter 3" 
         },
@@ -2416,9 +2447,14 @@
             "region": "Chapter 3" 
         },
         {
+            "name": "Betweenspace - Important Object",
+            "category": ["Miracle"],
+            "region": "Chapter 3" 
+        },
+        {
             "name": "Shatter Your Fate - Last Wish Access",
             "category": ["Chapter 3 Songs", "Boss Songs"],
-            "requires": "|Progressive Cycle:4|",
+            "requires": "|Progressive Cycle:4| AND |Important Object|",
             "region": "Chapter 3",
             "place_item": [
 			    "Last Wish"
@@ -2599,6 +2635,17 @@
             "region": "Chapter 4"
         },
         {
+            "name": "Chapter 4 - NONSENSE",
+            "category": ["Chapter 4 Songs"],
+            "region": "Chapter 4",
+            "requires": "|NONSENSE|"
+        },
+        {
+            "name": "Betweenspace - NONSENSE",
+            "category": ["Betweenspace Nodes"],
+            "region": "Chapter 4"
+        },
+        {
             "name": "Chapter 4 - STARGAZERS",
             "category": ["Chapter 4 Songs"],
             "requires": "|STARGAZERS|",
@@ -2632,14 +2679,8 @@
             "region": "Chapter 4"
         },
         {
-            "name": "Landing Key - The Last Page",
-            "category": ["Landing Keys"],
-            "region": "Chapter 4"
-        },
-        {
             "name": "Betweenspace - The Last Page",
             "category": ["Betweenspace Nodes"],
-            "requires": "|Landing Key - The Last Page|",
             "region": "Chapter 4"
         },
         {
@@ -2649,14 +2690,8 @@
             "region": "Chapter 4"
         },
         {
-            "name": "Landing Key - Candy@Cracker",
-            "category": ["Landing Keys"],
-            "region": "Chapter 4"
-        },
-        {
             "name": "Betweenspace - Candy@Cracker",
             "category": ["Betweenspace Nodes"],
-            "requires": "|Landing Key - CandyCracker|",
             "region": "Chapter 4"
         },
         {
@@ -2666,14 +2701,8 @@
             "region": "Chapter 4"
         },
         {
-            "name": "Landing Key - Orphen",
-            "category": ["Landing Keys"],
-            "region": "Chapter 4"
-        },
-        {
             "name": "Betweenspace - Orphen",
             "category": ["Betweenspace Nodes"],
-            "requires": "|Landing Key - Orphen|",
             "region": "Chapter 4"
         },
         {
@@ -2683,14 +2712,8 @@
             "region": "Chapter 4"
         },
         {
-            "name": "Landing Key - 3.1V.C1",
-            "category": ["Landing Keys"],
-            "region": "Chapter 4"
-        },
-        {
             "name": "Betweenspace - 3.1V.C1",
             "category": ["Betweenspace Nodes"],
-            "requires": "|Landing Key - 3.1V.C1|",
             "region": "Chapter 4"
         },
         {
@@ -2701,7 +2724,7 @@
         },
         {
             "name": "Porta Futuri - ASTELLION Access",
-            "category": ["Landing Keys"],
+            "category": ["Final Landing"],
             "requires": "|The Last Page| AND |CandyCracker| AND |Orphen| AND |3.1V.C1|",
             "region": "Chapter 4",
             "place_item": [
@@ -2888,7 +2911,7 @@
         },
         {
             "name": "Chapter 6 - crack in the earth",
-            "category": ["Chapter 5 Songs"],
+            "category": ["Chapter 6 Songs"],
             "requires": "|crack in the earth|",
             "region": "Chapter 6"
         },
@@ -2906,7 +2929,7 @@
         },
         {
             "name": "Chapter 6 - ULTIMATUM",
-            "category": ["Chapter 5 Songs"],
+            "category": ["Chapter 6 Songs"],
             "requires": "|ULTIMATUM|",
             "region": "Chapter 6"
         },
@@ -2984,7 +3007,7 @@
         {
             "name": "Void Lens",
             "category": ["The Void"],
-            "region": "Chapter 5"
+            "region": "Chapter 6"
         },
         {
             "name": "True Void - Attractor Force",
