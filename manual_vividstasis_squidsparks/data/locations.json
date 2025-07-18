@@ -371,19 +371,26 @@
             "region": "Chapter 5"
         },
         {
-            "name": "Node Flowchart - Crimson Dance(vivid/stasis edit)",
-            "category": ["Node Flowchart"],            
+            "name": "Node Flowchart - Sternstrude",
+            "category": ["Node Flowchart"],
             "region": "Chapter 5"
         },
         {
-            "name": "Node Flowchart - Sternstrude",
+            "name": "Node Flowchart - Crimson Dance(vivid/stasis edit)",
             "category": ["Node Flowchart"],
-            "region": "Chapter 5",
-            "_comment": "END CH4 FLOWCHART"
+            "requires": "|stop-motion|",            
+            "region": "Chapter 5"
         },
         {
             "name": "Node Flowchart - Story: Episode 26, Act 6",
             "category": ["Node Flowchart"],
+            "requires": "|CLADIA -libertia-|",
+            "region": "Chapter 5"
+        },
+        {
+            "name": "Node Flowchart - Crimson Dance(vivid/stasis edit)",
+            "category": ["Node Flowchart"],
+            "requires": "|stop-motion|",            
             "region": "Chapter 5"
         },
         {
