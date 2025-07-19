@@ -3013,7 +3013,7 @@
         },
         {
             "name": "Chapter 7 - acta est fabula, plaudite",
-            "category": ["GOAL"],
+            "category": ["Chapter 7 Songs"],
             "requires": "|acta est fabula, plaudite|",
             "region": "Plaudite"
         },
