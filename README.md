@@ -11,9 +11,10 @@ Currently updated to 5.0
 - Starting Items: grode, 1 random Chapter 1 song. (If Song Shop is enabled): There, Options, safe_state
 
 Yaml Options:
+- Deathlink: You know what this does already.
 - Song Shop: Adds Song Shop items and Locations to the pool
 - Include Betweenspace Gems: Adds Gem Locations to the pool. Does nothing to the Gem item inside Manual
-- Soundscan Maps: Adds all Soundscan maps to the pool with the exceptions of Sunrise Showdown(goal requirement) and Encore Ensemble(didn't want to do it)
+- Soundscan Maps: Adds all Soundscan maps to the pool with the exception of Encore Ensemble(didn't want to do it)
 - long map: adds the long soundscan map that isn't worth it.
 
 Goals:
@@ -39,10 +40,10 @@ This manual makes liberal use of two accessibility options that can be enabled f
 There are also other settings you can adjust to your liking in this menu
 - **Currency Multiplier:** Reduces grinding for Points and Battery.
 - **Flowchart Unlocks(Story):** Allows you to skip using Batteries for Story nodes.
-- **Assist Mode:** Removes Challenge Gauges from Boss Songs.
+- **Assist Mode:** Removes Challenge Gauges from Boss Songs.(Do not use if you have Deathlink on)
 - **Autoplay:** The game plays itself. Not really recommend for anything other than Soundscan gates you can't bypass manually.
 
 Other helpful resources for this manual
 - The [shrinereport Hints Hub](https://shrinereport.xyz/hints/hub.html) for puzzle solutions.(Enabling hints lets you press shift to automatically open the page on story locks)
-- [hack's Betweenspace Maps](https://hack-3r64.github.io/betweenspace/) to make finding gems and Songs easier.(Currently outdated, the hidden areas in Layer 1 are in a seperate hub area now and some songs got swapped out. Everything else location-wise is accurate)
+- [hack's Betweenspace Maps](https://hack-3r64.github.io/betweenspace/) to make finding gems and Songs easier.(Slightly outdated)
 - [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases/tag/Tracker_v0.2.11) because this game has a Lot of checks if you enable everything
