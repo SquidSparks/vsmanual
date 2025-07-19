@@ -293,13 +293,13 @@
             "name": "Node Flowchart - Story: Episode 22'.1",
             "category": ["Node Flowchart"],
             "region": "Chapter 3",
-            "requires": "|Miracle|"
+            "requires": "|TVO Miracle|"
         },
         {
             "name": "Node Flowchart - Story: Episode 22'.2",
             "category": ["Node Flowchart"],
             "region": "Chapter 3",
-            "requires": "|Miracle|"
+            "requires": "|TVO Miracle|"
         },
         {
             "name": "Node Flowchart - Story: Episode 23",
@@ -324,25 +324,25 @@
         {
             "name": "Node Flowchart - Story: Episode 26, Act 2",
             "category": ["Node Flowchart"],
-            "requires": "|CLADIA -libertia-|",
+            "requires": "|CLAUDIA -libertia-|",
             "region": "Chapter 5"
         },
         {
             "name": "Node Flowchart - Story: Episode 26, Act 3",
             "category": ["Node Flowchart"],
-            "requires": "|CLADIA -libertia-|",
+            "requires": "|CLAUDIA -libertia-|",
             "region": "Chapter 5"
         },
                 {
             "name": "Node Flowchart - Story: Episode 26, Act 4",
             "category": ["Node Flowchart"],
-            "requires": "|CLADIA -libertia-|",
+            "requires": "|CLAUDIA -libertia-|",
             "region": "Chapter 5"
         },
         {
             "name": "Node Flowchart - Story: Episode 26, Act 5",
             "category": ["Node Flowchart"],
-            "requires": "|CLADIA -libertia-|",
+            "requires": "|CLAUDIA -libertia-|",
             "region": "Chapter 5"
         },
         {
@@ -384,13 +384,7 @@
         {
             "name": "Node Flowchart - Story: Episode 26, Act 6",
             "category": ["Node Flowchart"],
-            "requires": "|CLADIA -libertia-|",
-            "region": "Chapter 5"
-        },
-        {
-            "name": "Node Flowchart - Crimson Dance(vivid/stasis edit)",
-            "category": ["Node Flowchart"],
-            "requires": "|stop-motion|",            
+            "requires": "|CLAUDIA -libertia-|",
             "region": "Chapter 5"
         },
         {
@@ -736,11 +730,6 @@
         {
             "name": "GTS Part 1 - Bonus Battery 3",
             "category": ["Soundscan Maps"],
-            "region": "Soundscan"
-        },
-        {
-            "name": "Sunrise Showdown - Bonus Battery 1",
-            "category": ["Sunrise Showdown"],
             "region": "Soundscan"
         },
         {
@@ -1540,130 +1529,134 @@
             "requires": "|MULTIPHEX|"
         },
         {
+            "name": "Sunrise Showdown - Bonus Battery 1",
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
             "name": "Sunrise Showdown - Luxinvore",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan",
             "_comment": "Doing this for The Void Access"
         },
         {
             "name": "Sunrise Showdown - Luxinvore Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Boost Tickets 1",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Synthesis",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Synthesis Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Soundscan Medal 1",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - When the Dragon Falls",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - When the Dragon Falls Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Bonus Battery 2",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - And So You Felt",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Sand So You Felt Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Sunrise Showdown - Sunrise Splash",
-            "category": ["Sunrise Showdown"],
+            "name": "Sunrise Showdown - Sunrise Splash Titel",
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Surtr's Wish",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Surtr's Wish Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Bonus Battery Storage 1",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Bonus Points Storage",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - :3c",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - :3c Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Sunrise Standoff Title",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Boost Tickets 2",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Soundscan Medal 2",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Apocalypse Key",
-            "category": ["Sunrise Showdown"],
-            "region": "Soundscan",
-            "place_item": ["APOCALYPSE CALL"]
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
+            "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Sunrise Showdown Title",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Final Gate",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Sunrise Showdown - Bonus Battery Storage 2",
-            "category": ["Sunrise Showdown"],
+            "category": ["Sunrise Showdown", "Soundscan Maps"],
             "region": "Soundscan"
         },
         {
@@ -1701,6 +1694,12 @@
             "category": "Sunrise Showdown",
             "region": "Soundscan",
             "requires": "|Surtrs Wish|"
+        },
+        {
+            "name": "Soundscan - APOCALYPSE CALL",
+            "category": "Sunrise Showdown",
+            "region": "Soundscan",
+            "requires": "|APOCALYPSE CALL|"
         },
         {
             "name": "Sunrise Showdown Challenge",
@@ -2487,7 +2486,7 @@
         },
         {
             "name": "Betweenspace - Important Object",
-            "category": ["Miracle"],
+            "category": ["TVO Miracle"],
             "region": "Chapter 3" 
         },
         {
@@ -2739,12 +2738,12 @@
             "category": ["Final Landing", "Boss Songs"],
             "requires": "|ASTELLION|",
             "region": "Chapter 4",
-            "place_item": ["Miracle"]
+            "place_item": ["TVO Miracle"]
         },
         {
             "name": "Lock S - SUPERNOVA Access",
             "category": ["Cycle Locks"],
-            "requires": "|Miracle| AND |Progressive Cycle:5|",
+            "requires": "|TVO Miracle| AND |Progressive Cycle:5|",
             "region": "Chapter 4",
             "place_item": [
 			    "SUPERNOVA"

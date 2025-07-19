@@ -26,6 +26,6 @@
       ]
     }
   ],
-  "death_link": false,
+  "death_link": true,
   "starting_index": 1
 }
