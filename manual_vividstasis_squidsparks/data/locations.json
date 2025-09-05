@@ -2461,7 +2461,8 @@
         {
             "name": "Log: _",
             "category": ["Betweenspace Logs"],
-            "region": "Chapter 3"
+            "region": "Chapter 3",
+            "place_item_category": ["Filler"]
         },
         {
             "name": "Log: ???_MELODY",
