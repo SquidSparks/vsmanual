@@ -1709,10 +1709,34 @@
             "requires": "|@Sunrise Showdown:all|"
         },
         {
-            "name": "smots gaming Soundscan - Fuckshit",
+            "name": "smots gaming Soundscan - Bonus Battery",
             "category": ["Soundscan Maps"],
-            "region": "Soundscan",
-            "_comment": "DO SMOTS LATER i just don't wanna open the game"
+            "region": "Soundscan"
+        },
+        {
+            "name": "smots gaming Soundscan - Soundscan Medal",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "smots gaming Soundscan - Some More Of That Song",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "smots gaming Soundscan - smots gaming Title",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "smots gaming Soundscan - Gate",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
+        },
+        {
+            "name": "smots gaming Soundscan - Bonus Points Storage",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan"
         },
         {
             "name": "Soundscan - Some More Of That Song",
