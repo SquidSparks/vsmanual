@@ -288,7 +288,6 @@
             ],
             "progression": true
         },
-        
         {
             "name": "F1055",
             "category": [
@@ -428,7 +427,7 @@
             "progression": true
         },
         {
-            "name": "Important Object",
+            "name": "Proof of Soul",
             "category": [
                 "Miracle"
             ],
@@ -906,6 +905,13 @@
             "progression": true
         },
         {
+            "name": "Showdown",
+            "category": [
+                "Shop Songs"
+            ],
+            "progression": true
+        },
+        {
             "name": "Spell Diver",
             "category": [
                 "Shop Songs"
@@ -914,13 +920,6 @@
         },
         {
             "name": "Spin Cycle - NETCAVY ReMiX",
-            "category": [
-                "Shop Songs"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Showdown",
             "category": [
                 "Shop Songs"
             ],
@@ -992,189 +991,196 @@
         {
             "name": "NULCTRL",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Trip Coffee",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "ULTIMATE",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Rafflesia",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Sanzui",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "WAVE PUNCH",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Luminous Entities Lost Heart",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Proper Rhythm",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "WORN OUT TAPES [tally-ho! version]",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "All The Times",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "It Go - Cheryl Stelli Remix",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "LORELEI",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Faux Real - VIVID REDUX",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "CITY RIDE IN THE JUNGLE",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Battle in Ememy Territory",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Star Dream -Millenium Version-",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Secret Illumination",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "MVURBD",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "IGNITED",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Etiquette",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Dreams From Another World",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "micro.wav",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Rrhar'il",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Distorted Fate",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Benighted Rewaking",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "Images",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
             ],
             "progression": true
         },
         {
             "name": "MULTIPHEX",
             "category": [
-                "Soundscan Maps"
+                "Soundscan Songs"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Some More Of That Song",
+            "category": [
+                "Soundscan Songs"
             ],
             "progression": true
         },
@@ -1281,6 +1287,153 @@
             "name": "Solomons Seal",
             "category": [
                 "Backstage Access"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Saturday Full Body",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Saturday Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Saturday Future",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Saturday DUALIZED",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Allison Full Body",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Allison Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Allison DUALIZED",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Guardian Allison",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Kotomi Full Body",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Kotomi Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Eri Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Eri Witch",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Chiyo Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Dawn Full Body",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Dawn Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Dawn Summer",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Tsuki Full Body",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Tsuki Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Tsuki Summer",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Storyteller Portrait",
+            "category": [
+                "Character Change"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Boundary Shatter Key",
+            "category": [
+                "Boundary Shatter"
             ],
             "progression": true
         }

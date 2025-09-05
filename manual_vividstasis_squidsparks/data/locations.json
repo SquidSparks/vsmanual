@@ -131,24 +131,6 @@
             "region": "Chapter 2"
         },
         {
-            "name": "Node Flowchart - Story: Episode 14.2",
-            "category": ["Node Flowchart"],
-            "requires": "|valor/starcross|",
-            "region": "Chapter 2"
-        },
-        {
-            "name": "Node Flowchart - Story: Episode 15",
-            "category": ["Node Flowchart"],
-            "requires": "|valor/starcross|",
-            "region": "Chapter 2"
-        },
-        {
-            "name": "Node Flowchart - Story: Episode 15.2",
-            "category": ["Node Flowchart"],
-            "requires": "|Unraveling Stasis|",
-            "region": "Chapter 2"
-        },
-        {
             "name": "Node Flowchart - Courage",
             "category": ["Node Flowchart"],
             "region": "Chapter 2"
@@ -199,8 +181,27 @@
             "region": "Chapter 2"
         },
         {
+            "name": "Node Flowchart - Story: Episode 14.2",
+            "category": ["Node Flowchart"],
+            "requires": "|valor/starcross|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 15",
+            "category": ["Node Flowchart"],
+            "requires": "|valor/starcross|",
+            "region": "Chapter 2"
+        },
+        {
+            "name": "Node Flowchart - Story: Episode 15.2",
+            "category": ["Node Flowchart"],
+            "requires": "|Unraveling Stasis|",
+            "region": "Chapter 2"
+        },
+        {
             "name": "Node Flowchart - Story: Episode 16",
             "category": ["Node Flowchart"],
+            "requires": "|Unraveling Stasis|",
             "region": "Chapter 2"
         },
         {
@@ -662,869 +663,869 @@
         },
         {
             "name": "Soundscan - NULCTRL",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|NULCTRL|"
         },
         {
-            "name": "GTS Part 1 - Bonus Battery 1",
+            "name": "GTS Soundscan Part 1 - Bonus Battery 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - ULTIMATE",
+            "name": "GTS Soundscan Part 1 - ULTIMATE",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - ULTIMATE Gate",
+            "name": "GTS Soundscan Part 1 - ULTIMATE Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Boost Tickets 1",
+            "name": "GTS Soundscan Part 1 - Boost Tickets 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Trip Coffee",
+            "name": "GTS Soundscan Part 1 - Trip Coffee",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Trip Coffee Gate",
+            "name": "GTS Soundscan Part 1 - Trip Coffee Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Soundscan Medal",
+            "name": "GTS Soundscan Part 1 - Soundscan Medal",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Bonus Battery 2",
+            "name": "GTS Soundscan Part 1 - Bonus Battery 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan",
             "_comment": "skipping encore locations because they don't matter"
         },
         {
-            "name": "GTS Part 1 - Rafflesia",
+            "name": "GTS Soundscan Part 1 - Rafflesia",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Rafflesia Gate",
+            "name": "GTS Soundscan Part 1 - Rafflesia Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Boost Tickets 2",
+            "name": "GTS Soundscan Part 1 - Boost Tickets 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - ULTIMATE Title",
+            "name": "GTS Soundscan Part 1 - ULTIMATE Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Bonus Battery 3",
+            "name": "GTS Soundscan Part 1 - Bonus Battery 3",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Final Gate",
+            "name": "GTS Soundscan Part 1 - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - GTS Part 1 Completetionist Title",
+            "name": "GTS Soundscan Part 1 - GTS Part 1 Completetionist Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 1 - Bonus Battery Storage",
+            "name": "GTS Soundscan Part 1 - Bonus Battery Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Trip Coffee",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Trip Coffee|"
         },
         {
             "name": "Soundscan - ULTIMATE",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|ULTIMATE|"
         },
         {
             "name": "Soundscan - Rafflesia",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Rafflesia|"
         },
         {
-            "name": "GTS Part 2 - Boost Tickets 1",
+            "name": "GTS Soundscan Part 2 - Boost Tickets 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Sanzui",
+            "name": "GTS Soundscan Part 2 - Sanzui",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Bonus Battery 1",
+            "name": "GTS Soundscan Part 2 - Bonus Battery 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - WAVE PUNCH",
+            "name": "GTS Soundscan Part 2 - WAVE PUNCH",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - WVAE PUNCH Gate",
+            "name": "GTS Soundscan Part 2 - WVAE PUNCH Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Boost Tickets 2",
+            "name": "GTS Soundscan Part 2 - Boost Tickets 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Luminous Entities Lost Heart",
+            "name": "GTS Soundscan Part 2 - Luminous Entities Lost Heart",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Luminous Entities Lost Heart Gate",
+            "name": "GTS Soundscan Part 2 - Luminous Entities Lost Heart Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Bonus Battery 2",
+            "name": "GTS Soundscan Part 2 - Bonus Battery 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Final Gate",
+            "name": "GTS Soundscan Part 2 - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - WAVEDASH Title",
+            "name": "GTS Soundscan Part 2 - WAVEDASH Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - Boost Tickets 3",
+            "name": "GTS Soundscan Part 2 - Boost Tickets 3",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "GTS Part 2 - GTS Part 2 Completetionist Title",
+            "name": "GTS Soundscan Part 2 - GTS Part 2 Completetionist Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Sanzui",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Sanzui|"
         },
         {
             "name": "Soundscan - WAVE PUNCH",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|WAVE PUNCH|"
         },
         {
             "name": "Soundscan - Luminous Entities Lost Heart",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Luminous Entities Lost Heart|"
         },
                 {
-            "name": "UNBEATABLE - Boost Tickets",
+            "name": "UNBEATABLE Soundscan - Boost Tickets",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Proper Rhythm",
+            "name": "UNBEATABLE Soundscan - Proper Rhythm",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Bonus Battery",
+            "name": "UNBEATABLE Soundscan - Bonus Battery",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Proper Rhythm Gate",
+            "name": "UNBEATABLE Soundscan - Proper Rhythm Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Soundscan Medal",
+            "name": "UNBEATABLE Soundscan - Soundscan Medal",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - WORN OUT TAPES [tally-ho! version]",
+            "name": "UNBEATABLE Soundscan - WORN OUT TAPES [tally-ho! version]",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - WORN OUT TAPES Gate",
+            "name": "UNBEATABLE Soundscan - WORN OUT TAPES Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - blank page Title",
+            "name": "UNBEATABLE Soundscan - blank page Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Soundscan Medal 2",
+            "name": "UNBEATABLE Soundscan - Soundscan Medal 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Final Gate",
+            "name": "UNBEATABLE Soundscan - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "UNBEATABLE - Bonus Points Storage",
+            "name": "UNBEATABLE Soundscan - Bonus Points Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Proper Rhythm",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Proper Rhythm|"
         },
         {
             "name": "Soundscan - WORN OUT TAPES [tally-ho! version]",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|WORN OUT TAPES [tally-ho! version]|"
         },
         {
-            "name": "7th Beat Games - 1234567 Title",
+            "name": "7th Beat Games Soundscan - 1234567 Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - All The Times",
+            "name": "7th Beat Games Soundscan - All The Times",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - All The Times Gate",
+            "name": "7th Beat Games Soundscan - All The Times Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Soundscan Medal",
+            "name": "7th Beat Games Soundscan - Soundscan Medal",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - It Go (Cheryl Stelli Remix)",
+            "name": "7th Beat Games Soundscan - It Go (Cheryl Stelli Remix)",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - It Go Gate",
+            "name": "7th Beat Games Soundscan - It Go Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Boost Ticket",
+            "name": "7th Beat Games Soundscan - Boost Ticket",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Rhythm Doctor Certificate Title",
+            "name": "7th Beat Games Soundscan - Rhythm Doctor Certificate Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - LORELEI",
+            "name": "7th Beat Games Soundscan - LORELEI",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Soundscan Medal 2",
+            "name": "7th Beat Games Soundscan - Soundscan Medal 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Bonus Battery",
+            "name": "7th Beat Games Soundscan - Bonus Battery",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Final Gate",
+            "name": "7th Beat Games Soundscan - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "7th Beat Games - Bonus Point Storage",
+            "name": "7th Beat Games Soundscan - Bonus Point Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - All The Times",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|All The Times|"
         },
         {
             "name": "Soundscan - It Go (Cheryl Stelli Remix)",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|It Go - Cheryl Stelli Remix|"
         },
         {
             "name": "Soundscan - LORELEI",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|LORELEI|"
         },
         {
-            "name": "SKY HOUR WORKS - Bonus Batteries",
+            "name": "SKY HOUR WORKS Soundscan - Bonus Batteries",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Faux Real (VIVID REDUX)",
+            "name": "SKY HOUR WORKS Soundscan - Faux Real (VIVID REDUX)",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Faux Real Gate",
+            "name": "SKY HOUR WORKS Soundscan - Faux Real Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Boost Tickets",
+            "name": "SKY HOUR WORKS Soundscan - Boost Tickets",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - CITY RIDE IN THE JUNGLE",
+            "name": "SKY HOUR WORKS Soundscan - CITY RIDE IN THE JUNGLE",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - CITY RIDE IN THE JUNGLE Gate",
+            "name": "SKY HOUR WORKS Soundscan - CITY RIDE IN THE JUNGLE Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Is this real..? Title",
+            "name": "SKY HOUR WORKS Soundscan - Is this real..? Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Boost Tickets 2",
+            "name": "SKY HOUR WORKS Soundscan - Boost Tickets 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Faux Real Harmony Gate",
+            "name": "SKY HOUR WORKS Soundscan - Faux Real Harmony Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Final Gate",
+            "name": "SKY HOUR WORKS Soundscan - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "SKY HOUR WORKS - Bonus Points Storage",
+            "name": "SKY HOUR WORKS Soundscan - Bonus Points Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Faux Real (VIVID REDUX)",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Faux Real - VIVID REDUX|"
         },
         {
             "name": "Soundscan - CITY RIDE IN THE JUNGLE",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|CITY RIDE IN THE JUNGLE|"
         },
         {
-            "name": "YIIK IV - Soundscan Medal",
+            "name": "YIIK IV Soundscan - Soundscan Medal",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Star Dream -Millenium Version-",
+            "name": "YIIK IV Soundscan - Star Dream -Millenium Version-",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Star Dream -Millenium Version- Gate",
+            "name": "YIIK IV Soundscan - Star Dream -Millenium Version- Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Boost Tickets",
+            "name": "YIIK IV Soundscan - Boost Tickets",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Battle in Enemy Territory",
+            "name": "YIIK IV Soundscan - Battle in Enemy Territory",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Battle in Enemy Territory Gate",
+            "name": "YIIK IV Soundscan - Battle in Enemy Territory Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Millenium Debugger Title",
+            "name": "YIIK IV Soundscan - Millenium Debugger Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Bonus Battery",
+            "name": "YIIK IV Soundscan - Bonus Battery",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Third Ending Hunter Title",
+            "name": "YIIK IV Soundscan - Third Ending Hunter Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Final Gate",
+            "name": "YIIK IV Soundscan - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "YIIK IV - Bonus Battery Storage",
+            "name": "YIIK IV Soundscan - Bonus Battery Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Star Dream -Millenium Version-",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Star Dream -Millenium Version-|"
         },
         {
             "name": "Soundscan - Battle in Ememy Territory",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Battle in Ememy Territory|"
         },
         {
-            "name": "lmtiwi - Soundscan Medals",
+            "name": "long map that isn't worth it - Soundscan Medals",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "lmtiwi - Boost Tickets",
+            "name": "long map that isn't worth it - Boost Tickets",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "lmtiwi - Bonus Battery",
+            "name": "long map that isn't worth it - Bonus Battery",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "lmtiwi - Bonus Points",
+            "name": "long map that isn't worth it - Bonus Points",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "lmtiwi - Bonus Point Storage",
+            "name": "long map that isn't worth it - Bonus Point Storage",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "lmtiwi - Bonus Battery Storage",
+            "name": "long map that isn't worth it - Bonus Battery Storage",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "lmtiwi - ICT100KESMAAIGWTLT Title",
+            "name": "long map that isn't worth it - ICT100KESMAAIGWTLT Title",
             "category": ["Soundscan Maps", "long map"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Bonus Battery 1",
+            "name": "EX-XDRIVER Soundscan - Bonus Battery 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Boost Tickets 1",
+            "name": "EX-XDRIVER Soundscan - Boost Tickets 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Etiquette",
+            "name": "EX-XDRIVER Soundscan - Etiquette",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Etiquette Gate",
+            "name": "EX-XDRIVER Soundscan - Etiquette Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Bonus Battery 2",
+            "name": "EX-XDRIVER Soundscan - Bonus Battery 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - IGNITED",
+            "name": "EX-XDRIVER Soundscan - IGNITED",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - IGNITED Gate",
+            "name": "EX-XDRIVER Soundscan - IGNITED Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Boost Tickets 2",
+            "name": "EX-XDRIVER Soundscan - Boost Tickets 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Dreams From Another World",
+            "name": "EX-XDRIVER Soundscan - Dreams From Another World",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Dreams From Anoter World Gate",
+            "name": "EX-XDRIVER Soundscan - Dreams From Anoter World Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Ignition Title",
+            "name": "EX-XDRIVER Soundscan - Ignition Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Soundscan Medal",
+            "name": "EX-XDRIVER Soundscan - Soundscan Medal",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Lucidity Title",
+            "name": "EX-XDRIVER Soundscan - Lucidity Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Etiquette Encore Gate",
+            "name": "EX-XDRIVER Soundscan - Etiquette Encore Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - IGNITED Harmony Gate",
+            "name": "EX-XDRIVER Soundscan - IGNITED Harmony Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Dreams From Another World Encore Gate",
+            "name": "EX-XDRIVER Soundscan - Dreams From Another World Encore Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "EX-XDRIVER - Bonus Points Storage",
+            "name": "EX-XDRIVER Soundscan - Bonus Points Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Etiquette",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Etiquette|"
         },
         {
             "name": "Soundscan - IGNITED",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|IGNITED|"
         },
         {
             "name": "Soundscan - Dreams From Another World",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Dreams From Another World|"
         },
         {
-            "name": "Roteano - Bonus Battery 1",
+            "name": "Roteano Soundscan - Bonus Battery 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Secret Illumination",
+            "name": "Roteano Soundscan - Secret Illumination",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Secret Illumination Gate",
+            "name": "Roteano Soundscan - Secret Illumination Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Boost Tickets 1",
+            "name": "Roteano Soundscan - Boost Tickets 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - MVURBD",
+            "name": "Roteano Soundscan - MVURBD",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - MVURBD Gate",
+            "name": "Roteano Soundscan - MVURBD Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Illuminated Title",
+            "name": "Roteano Soundscan - Illuminated Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Soundscan Medal",
+            "name": "Roteano Soundscan - Soundscan Medal",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - MOVE UR BODY!!! Title",
+            "name": "Roteano Soundscan - MOVE UR BODY!!! Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Final Gate",
+            "name": "Roteano Soundscan - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Roteano - Bonus Battery Expansion",
+            "name": "Roteano Soundscan - Bonus Battery Expansion",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Secret Illumination",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Secret Illumination|"
         },
         {
             "name": "Soundscan - MVURBD",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|MVURBD|"
         },
         {
-            "name": "Phigros - Boost Tickets",
+            "name": "Phigros Soundscan - Boost Tickets",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Bonus Battery 1",
+            "name": "Phigros Soundscan - Bonus Battery 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - micro.wav",
+            "name": "Phigros Soundscan - micro.wav",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - micro.wav Gate",
+            "name": "Phigros Soundscan - micro.wav Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Bonus Points Storage",
+            "name": "Phigros Soundscan - Bonus Points Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Distorted Fate",
+            "name": "Phigros Soundscan - Distorted Fate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Distorted Fate Gate",
+            "name": "Phigros Soundscan - Distorted Fate Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Soundscan Medal 1",
+            "name": "Phigros Soundscan - Soundscan Medal 1",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Rrhar'il",
+            "name": "Phigros Soundscan - Rrhar'il",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Rrhar'il Gate",
+            "name": "Phigros Soundscan - Rrhar'il Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Bonus Battery 2",
+            "name": "Phigros Soundscan - Bonus Battery 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Data Patcher Title",
+            "name": "Phigros Soundscan - Data Patcher Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Chronnection Title",
+            "name": "Phigros Soundscan - Chronnection Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Final Gate",
+            "name": "Phigros Soundscan - Final Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "Phigros - Soundscan Medal 2",
+            "name": "Phigros Soundscan - Soundscan Medal 2",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - micro.wav",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|micro.wav|"
         },
         {
             "name": "Soundscan - Distorted Fate",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Distorted Fate|"
         },
         {
             "name": "Soundscan - Rrhar'il",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Rrhar'il|"
         },
         {
-            "name": "Phigros - Bonus Battery Storage",
+            "name": "Phigros Soundscan - Bonus Battery Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Bonus Batteries",
+            "name": "NOISZ STARLIVHT Soundscan - Bonus Batteries",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Benighted Rewaking",
+            "name": "NOISZ STARLIVHT Soundscan - Benighted Rewaking",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Benighted Rewaking Gate",
+            "name": "NOISZ STARLIVHT Soundscan - Benighted Rewaking Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Cat of Spades Title",
+            "name": "NOISZ STARLIVHT Soundscan - Cat of Spades Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Images",
+            "name": "NOISZ STARLIVHT Soundscan - Images",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Images Gate",
+            "name": "NOISZ STARLIVHT Soundscan - Images Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Pheonix of Hearts Title",
+            "name": "NOISZ STARLIVHT Soundscan - Pheonix of Hearts Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - MULTIPHEX",
+            "name": "NOISZ STARLIVHT Soundscan - MULTIPHEX",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - MULTIPHEX Gate",
+            "name": "NOISZ STARLIVHT Soundscan - MULTIPHEX Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Hero of Clubs Title",
+            "name": "NOISZ STARLIVHT Soundscan - Hero of Clubs Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Dragon fo Diamonds Title",
+            "name": "NOISZ STARLIVHT Soundscan - Dragon fo Diamonds Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Soundscan Medals",
+            "name": "NOISZ STARLIVHT Soundscan - Soundscan Medals",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - MULTIPHEX Backstage Gate",
+            "name": "NOISZ STARLIVHT Soundscan - MULTIPHEX Backstage Gate",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Joker of the Stars Title",
+            "name": "NOISZ STARLIVHT Soundscan - Joker of the Stars Title",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
-            "name": "NOISZ STARLIVHT - Bonus Points Storage",
+            "name": "NOISZ STARLIVHT Soundscan - Bonus Points Storage",
             "category": ["Soundscan Maps"],
             "region": "Soundscan"
         },
         {
             "name": "Soundscan - Benighted Rewaking",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Benighted Rewaking|"
         },
         {
             "name": "Soundscan - Images",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|Images|"
         },
         {
             "name": "Soundscan - MULTIPHEX",
-            "category": "Soundscan Maps",
+            "category": "Soundscan Songs",
             "region": "Soundscan",
             "requires": "|MULTIPHEX|"
         },
@@ -1708,6 +1709,126 @@
             "requires": "|@Sunrise Showdown:all|"
         },
         {
+            "name": "smots gaming Soundscan - Fuckshit",
+            "category": ["Soundscan Maps"],
+            "region": "Soundscan",
+            "_comment": "DO SMOTS LATER i just don't wanna open the game"
+        },
+        {
+            "name": "Soundscan - Some More Of That Song",
+            "category": "Soundscan Songs",
+            "region": "Soundscan",
+            "requires": "|Some More Of That Song|"
+        },
+        {
+            "name": "Character Change - Saturday Portrait",
+            "category": "Character Change",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Character Change - Saturday Future",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|stop-motion|"
+        },
+        {
+            "name": "Character Change - Saturday DUALIZED",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|STARGAZERS|"
+        },
+        {
+            "name": "Character Change - Allison Full Body",
+            "category": "Character Change",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Character Change - Allison Portrait",
+            "category": "Character Change",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Character Change - Allison DUALIZED",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|STARGAZERS|"
+        },
+        {
+            "name": "Character Change - Guardian Allison",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|CONVERGENCE|"
+        },
+        {
+            "name": "Character Change - Kotomi Full Body",
+            "category": "Character Change",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Character Change - Kotomi Portrait",
+            "category": "Character Change",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Character Change - Eri Portrait",
+            "category": "Character Change",
+            "region": "Song Shop"
+        },
+        {
+            "name": "Character Change - Eri Witch",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|Surtrs Wish|"
+        },
+        {
+            "name": "Character Change - Chiyo Portrait",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|Unraveling Stasis|"
+        },
+        {
+            "name": "Character Change - Dawn Full Body",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|SUPERNOVA|"
+        },
+        {
+            "name": "Character Change - Dawn Portrait",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|SUPERNOVA|"
+        },
+        {
+            "name": "Character Change - Dawn Summer",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|@Sunrise Showdown:6|"
+        },
+        {
+            "name": "Character Change - Tsuki Full Body",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|SUPERNOVA|"
+        },
+        {
+            "name": "Character Change - Tsuki Portrait",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|SUPERNOVA|"
+        },
+        {
+            "name": "Character Change - Tsuki Summer",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|@Sunrise Showdown:6|"
+        },
+        {
+            "name": "Character Change - Storyteller Portrait",
+            "category": "Character Change",
+            "region": "Song Shop",
+            "requires": "|stop-motion|"
+        },
+        {
             "name": "Song Shop - There",
             "category": ["Shop Songs"],
             "region": "Song Shop"
@@ -1772,6 +1893,12 @@
             "region": "Song Shop"
         },
         {
+            "name": "Song Shop - Foolish Ambition",
+            "category": ["Shop Songs"],
+            "requires": "|Foolish Ambition|",
+            "region": "Song Shop"
+        },
+        {
             "name": "Song Shop - FULi AUTO BUSTER",
             "category": ["Shop Songs"],
             "region": "Song Shop",
@@ -1826,6 +1953,12 @@
             "requires": "|Luminaria|"
         },
         {
+            "name": "Song Shop - MYSTERIOUS TRIGGER",
+            "category": ["Shop Songs"],
+            "region": "Song Shop",
+            "requires": "|MYSTERIOUS TRIGGER|"
+        },
+        {
             "name": "Song Shop - Perfect ConfeCute!!",
             "category": ["Shop Songs"],
             "region": "Song Shop",
@@ -1848,6 +1981,12 @@
             "category": ["Shop Songs"],
             "region": "Song Shop",
             "requires": "|slic.hertz|"
+        },
+        {
+            "name": "Song Shop - Showdown",
+            "category": ["Shop Songs"],
+            "requires": "|Showdown|",
+            "region": "Song Shop"
         },
         {
             "name": "Song Shop - Spell Diver",
@@ -2106,10 +2245,10 @@
             "region": "Chapter 2"
         },
         {
-            "name": "Chapter 2 - ",
+            "name": "Chapter 2 - energy trixxx",
             "category": ["Chapter 2 Songs"],
-            "region": "Chapter 2",
-            "requires": "|energy trixxx|"
+            "requires": "|energy trixxx|",
+            "region": "Chapter 2"
         },
         {
             "name": "Chapter 2 - Chronoexplorers",
@@ -2216,206 +2355,460 @@
             "_comment": "ENC CHAPTER 3"
         },
         {
+            "name": "Log: SUNRISE_001",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_001_PRELIM",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_034_ROADBL",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_048_FOURTH",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: METALAYER_001_CONCEP",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_059_EDTEPT",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_061_SIMLAY",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_110_TESTRN",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: CYCLE_DEFINE",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: CYCLE_ITRTYP",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: CYCLE_CYLOCK",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: TVO_STARTP",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: TVO_SCHCYC",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: TVO_CLIENT",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: TVO_PGDEMO",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: DUSKBREAKER_116_SVRNCE",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: _",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: ???_MELODY",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: TVO_FISHIN",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: SUNSET_ARRIVE",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: SUNSET_MEMORY",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: SUNSET_RANCH_",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: SUNSET_REPORT",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: SUNSET_KANSHI",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_N",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_A1",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_A2",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_A3",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_A4",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_A5",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_SF",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Log: STORYTELLER_L",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 3"
+        },
+        {
+            "name": "Final Note: The Last Page",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Note: Candy@Cracker",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Note: Orphen",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Final Note: 3.1V.C1",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Log: TVO_BRKLKS",
+            "category": ["Betweenspace Logs"],
+            "region": "Chapter 4"
+        },
+        {
+            "name": "Void Log: 001",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 002",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 003",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 004",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 005",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 006",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 007",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 008",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 009",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },{
+            "name": "Void Log: 010",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 011",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 012",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
+            "name": "Void Log: 013",
+            "category": ["Betweenspace Logs"],
+            "region": "The Void"
+        },
+        {
             "name": "Gem in Betweenspace Hub",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
             "name": "Gem in Sewers Starting Room Right",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
             "name": "Gem in Sewers Starting Room Left",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
             
         },
         {
             "name": "Gem in Sewers Cross",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"    
         },
         {
             "name": "Gem in Sewers Before Puzzle Room",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Sewers BS Room",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Sewers Puzzle Room",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Sewers Left of Ops:Limone",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Waterfall Caves Beside L",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
             "name": "Gem in Invisible Maze",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3",
             "place_item_category": ["Filler"],
             "_comment": "i'm not making you do the maze fuck that"
         },
         {
             "name": "Gem in Waterfall Caves Above Long Ladder",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
             "name": "Gem in Waterfall Caves Behind Waterfall",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
-            "name": "Gem in Waterfall Caves Before Grave",
-            "category": ["Gem Locations"],
+            "name": "Gem in Waterfall Caves Right of Grave",
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
             "name": "Gem in Waterfall Caves Before MARENOL Room",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3"
         },
         {
             "name": "Gem in Library Next to Door",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Library Behind Bookcases",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Library Jump Room",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Library Next to Melody Entrance",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Melody Room",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
-            "name": "Gem in Library At Couches",
-            "category": ["Gem Locations"],
+            "name": "Gem in Library At Couches Left",
+            "category": ["Gem Locations", "Betweenspace"],
+            "region": "Chapter 3" 
+        },
+        {
+            "name": "Gem in Library At Couches Right",
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Library Next to Seraphiel",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Tower Next to Tormented World",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Tower Ladder Platforms",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Tower Before Warp Rooms",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Tower Warp Puzzle",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Tower Warp to Fish",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Past Bridge",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Corner Next To Save",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Ladders Below Save",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Red Maze Left",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Red Maze Top",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Gray Maze Right of Start Up",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Gray Maze Right of Start Down",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Gray Maze Right of Start Right",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Gray Maze Left",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Gray Maze Top",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Below Ladders",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Above Ranch Incident",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Ladders Room 2",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
             "name": "Gem in Desert Purple",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 3" 
         },
         {
@@ -2485,14 +2878,14 @@
             "region": "Chapter 3" 
         },
         {
-            "name": "Betweenspace - Important Object",
+            "name": "Betweenspace - Proof of Soul",
             "category": ["TVO Miracle"],
             "region": "Chapter 3" 
         },
         {
             "name": "Shatter Your Fate - Last Wish Access",
             "category": ["Chapter 3 Songs", "Boss Songs"],
-            "requires": "|Progressive Cycle:4| AND |Important Object|",
+            "requires": "|Progressive Cycle:4| AND |Proof of Soul|",
             "region": "Chapter 3",
             "place_item": [
 			    "Last Wish"
@@ -2505,30 +2898,23 @@
             "region": "Chapter 3"
         },
         {
-            "name": "This is Your Last Wish",
-            "category": ["GOAL"],
-            "requires": "|Last Wish|",
-            "region": "Chapter 3",
-            "victory": true
-        },
-        {
             "name": "Gem in Forest Below Landing Key Right",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Forest Below Landing Key Left",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Forest Above Warp",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Forest House Above Warp",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
@@ -2538,102 +2924,102 @@
         },
         {
             "name": "Gem in Mountians By A1",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians First Door Above Ladder",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians First Door Under First Ladder",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians First Door Past Ladders",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Past First Door",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians By Orange Jumps",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Past Orange Jumps",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Above A1",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Right of A3",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Right of Door",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Below Aleph-0",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Beside Warp",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Mountians Lamp Square",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Clouds Start",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Clouds Above Start",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Clouds By SF",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Clouds Above SF",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Fishing Spot Above Start",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Fishing Spot Below Start",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
             "name": "Gem in Fishing Spot Next to Egg Door",
-            "category": ["Gem Locations"],
+            "category": ["Gem Locations", "Betweenspace"],
             "region": "Chapter 4"
         },
         {
@@ -2754,6 +3140,13 @@
             "category": ["Chapter 4 Songs", "Boss Songs"],
             "requires": "|SUPERNOVA|",
             "region": "Chapter 4"
+        },
+        {
+            "name": "SUPERNOVA",
+            "category": ["GOAL"],
+            "requires": "|SUPERNOVA|",
+            "region": "Chapter 4",
+            "victory": true
         },
         {
             "name": "Chapter 4 - STARGAZERS",
@@ -2908,7 +3301,7 @@
             "region": "Chapter 6"
         },
         {
-            "name": "Interference - Memories Sacrafice",
+            "name": "Interference - Memories Sacrifice",
             "region": "Chapter 6"
         },
         {
@@ -2972,19 +3365,19 @@
         {
             "name": "Chapter 7 - Bloom in Two",
             "category": ["Chapter 7 Songs", "Unity Nexus"],
-            "requires": "|Bloom in Two| AND |thrinos;pygmalion|",
+            "requires": "|Bloom in Two|",
             "region": "Unity Nexus"
         },
         {
             "name": "Chapter 7 - Unknown Absolute",
             "category": ["Chapter 7 Songs", "Unity Nexus"],
-            "requires": "|Unknown Absolute| AND |Bloom in Two|",
+            "requires": "|Unknown Absolute|",
             "region": "Unity Nexus"
         },
         {
             "name": "Chapter 7 - First Breath",
             "category": ["Chapter 7 Songs", "Unity Nexus"],
-            "requires": "|First Breath| AND |First Breath|",
+            "requires": "|First Breath|",
             "region": "Unity Nexus"
         },
         {
@@ -3103,6 +3496,59 @@
             "_comment": "Simplified conditions in rando because this is a lot lol. you should just get them all doing this anyway i'll change it if i'm wrong",
             "victory": true,
             "requires": "|PYROMANIA| AND |valor/starcross| AND |Unraveling Stasis| AND |ASTELLION| AND |SUPERNOVA| AND |CLAUDIA -libertia-| AND |stop-motion| AND |CONVERGENCE| AND |acta est fabula, plaudite| AND |Tamasatchi Egg| AND |B3611V| AND |APOCALYPSE CALL| AND |Solomons Seal|"
+        },
+        {
+            "name": "Boundary Shatter - 00(Shatter)",
+            "category": ["Boundary Shatter"],
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - 00(Slumpage)",
+            "category": ["Boundary Shatter"],
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - TERABYTE CONNECTION",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - Locked Out",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - grode(DJ HOE SCARER REMIX)",
+            "category": ["Boundary Shatter"],
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - grode(A-Saph Multigenre Remix",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - RAM(Rotating Auto-Mobiles)",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - calming patterns to soothe the mind",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - DesPAROLA",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
+        },
+        {
+            "name": "Boundary Shatter - evil pimp dracula fire beat",
+            "region": "Boundary Shatter",
+            "requires": "|Boundary Shatter Key|"
         }
             ]
         }

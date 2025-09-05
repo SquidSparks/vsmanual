@@ -3,25 +3,31 @@
     "Chapter 1":{
         "connects_to": ["Chapter 2", "Song Shop"],
         "starting": true,
-        "exit_requires": {"Chapter 2": "|PYROMANIA|","Song Shop": "|PYROMANIA|"}
+        "exit_requires": {"Chapter 2": "|PYROMANIA|"}
     },
     "Song Shop":{
-        "connects_to": []
+        "connects_to": [],
+        "requires": "|PYROMANIA|"
     },
     "Chapter 2": {
         "connects_to": ["Chapter 3"],
         "exit_requires": {"Chapter 3": "|valor/starcross| AND |Unraveling Stasis|"}
     },
     "Chapter 3": {
-        "connects_to": ["Chapter 4"],
+        "connects_to": ["Chapter 4", "Boundary Shatter"],
         "exit_requires": {"Chapter 4": "|Last Wish|"}
+        },
+    "Boundary Shatter": {
+        "connects_to": [],
+        "requires": "|Boundary Shatter Key|"
         },
     "Chapter 4": {
         "connects_to": ["Chapter 5", "Soundscan"],
-        "exit_requires": {"Chapter 5": "|SUPERNOVA|", "Soundscan": "|SUPERNOVA|"}
+        "exit_requires": {"Chapter 5": "|SUPERNOVA|"}
         },
     "Soundscan": {
-        "connects_to": []
+        "connects_to": [],
+        "requires": "|SUPERNOVA|"
     },
     "Chapter 5": {
         "connects_to": ["Chapter 6"],

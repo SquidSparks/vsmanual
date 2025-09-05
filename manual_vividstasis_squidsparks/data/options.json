@@ -7,12 +7,13 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "Select where to end the game",
+            "description": "Select where to end the randomizer",
             "aliases": {"easiest": 0},
             "hidden": false
         },
         "death_link": {
-            "default": false
+            "default": false,
+            "description": ["Whenever you fail out of a song, all players with this option will die. Whenever anyone dies, fail out of the song and start over.\nUse Charge Gauge when you have this option enabled"]
         },
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
@@ -22,24 +23,56 @@
         }
     },
     "user": {
+        "node_flowchart":{
+            "description": ["Adds the Node Flowchart to the location pool"],
+            "type": "Toggle",
+            "default": true
+        },
         "song_shop":{
-            "description": ["Adds the Song Shop to the item and location pool."],
+            "description": ["Adds the Shop Collection Songs to the item and location pool."],
             "type": "Toggle",
             "default": false
         },
+        "character_change":{
+            "description": ["Adds the Outfit Shop to the pool."],
+            "type": "Toggle",
+            "default": false
+        },
+        "include_betweenspace_songs":{
+            "description": ["Adds the Betweenspace Song Nodes to the location pool"],
+            "type": "Toggle",
+            "default": true
+        },
+        "include_betweenspace_logs":{
+            "description": ["Adds the Betweenspace lore tablets to the location list."],
+            "type": "Toggle",
+            "default": true
+        },
         "include_betweenspace_gems":{
-            "description": ["Adds Gem Locations to the pool"],
+            "description": ["Adds the Betweenspace Gem locations to the pool"],
             "type": "Toggle",
             "default": false
         },
         "soundscan_maps":{
-            "description": ["Adds the Soundscan Maps to the location pool. Does not turn off the Sunrise Showdown map as that is a requirement for the Encore Episode Goal"],
+            "description": ["Adds the Soundscan Maps to the location pool, currently excluding Encore Ensemble."],
+            "type": "Toggle",
+            "default": false
+        },
+        "soundscan_songs":{
+            "description": ["Adds the Soundscan Song items and locations independently of Soundscan maps. \nDoes not affect the songs for Sunrise Showdown as that is required for Encore Episode Access"],
             "type": "Toggle",
             "default": false
         },
         "long_map_that_isnt_worth_it":{
             "description": [
-                "Adds the long map that isnt worth it to the location pool. Do not do this"
+                "Adds the long map that isnt worth it to the location pool. \nDo not do this."
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "include_boundary_shatter":{
+            "description": [
+                "Adds the Boundary Shatter menu to the location list. Excludes story-related songs that are put in this menus."
             ],
             "type": "Toggle",
             "default": false

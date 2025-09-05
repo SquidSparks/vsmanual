@@ -24,6 +24,14 @@
       "yaml_option": [
         "song_shop"
       ]
+    },
+    {
+      "items": [
+        "Saturday Full Body"
+      ],
+      "yaml_option": [
+        "character_change"
+      ]
     }
   ],
   "death_link": true,

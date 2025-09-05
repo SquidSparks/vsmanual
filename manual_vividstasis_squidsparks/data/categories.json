@@ -1,16 +1,35 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Node Flowchart": {
+        "yaml_option": ["node_flowchart"]
+    },
     "Shop Songs": {
         "yaml_option": ["song_shop"]
+    },
+    "Character Change": {
+        "yaml_option": ["character_change"]
     },
     "Gem Locations": {
         "yaml_option": ["include_betweenspace_gems"]
     },
+    "Betweenspace Song Nodes": {
+        "yaml_option": ["include_betweenspace_songs"]
+    },
+    "Betweenspace Logs": {
+        "yaml_option": ["include_betweenspace_logs"]
+    },
     "Soundscan Maps": {
         "yaml_option": ["soundscan_maps"]
     },
+    "Soundscan Songs": {
+        "yaml_option": ["soundscan_songs"]
+    },
     "long map": {
         "yaml_option": ["long_map_that_isnt_worth_it"],
+        "hidden": false
+    },
+    "Boundary Shatter": {
+        "yaml_option": ["include_boundary_shatter"],
         "hidden": false
     }
 }
