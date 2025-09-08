@@ -41,11 +41,11 @@ What you'll need:
 
 This manual makes liberal use of two accessibility options that can be enabled from the Options Menu.
 - **Unlock All Songs:** This allows you to clear songs that you have on the client, but not in the game
-- **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors
+- **Unlock Conditions(Bypass):** This allows you to skip requirements for Story Locks and Gem Doors.
 
 There are also other settings you can adjust to your liking in this menu
 - **Currency Multiplier:** Reduces grinding for Points and Battery.
-- **Flowchart Unlocks(Story):** Allows you to use less Batteries for story progressiom
+- **Flowchart Unlocks(Story):** Allows you to use less Batteries for story progression
 - **Assist Mode:** Removes Challenge Gauges from Boss Songs.(Do not use if you have Deathlink on)
 - **Autoplay:** The game plays itself. Not really recommended unless you really need to bypass a Soundscan Gate
 
